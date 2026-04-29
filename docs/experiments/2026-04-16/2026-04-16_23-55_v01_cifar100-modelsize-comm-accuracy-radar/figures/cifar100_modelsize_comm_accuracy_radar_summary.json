@@ -1,0 +1,56 @@
+{
+  "axes": {
+    "axis1": "inverse-normalized total model size",
+    "axis2": "inverse-normalized average communication overhead across awgn and rayleigh",
+    "axis3": "awgn final accuracy",
+    "axis4": "rayleigh final accuracy"
+  },
+  "model_size_source": "docs/experiments/2026-04-11/2026-04-11_17-20_v01_paper-compute-analysis/ANALYSIS.md",
+  "summary": {
+    "title": "CIFAR-100",
+    "methods": {
+      "SFL": {
+        "inv_total_model_size": 1.0,
+        "inv_avg_comm_overhead": 0.09903598483957167,
+        "awgn_accuracy": 1.0,
+        "rayleigh_accuracy": 1.0,
+        "raw": {
+          "total_model_size_mb": 42.62,
+          "awgn_final_acc_mean": 27.352500000000003,
+          "rayleigh_final_acc_mean": 25.602500000000003,
+          "awgn_comm_gb_mean": 150.07183204218745,
+          "rayleigh_comm_gb_mean": 150.0718348454684,
+          "avg_comm_gb_mean": 150.07183344382793
+        }
+      },
+      "SC-USFL": {
+        "inv_total_model_size": 0.9393872603041657,
+        "inv_avg_comm_overhead": 0.718651927679873,
+        "awgn_accuracy": 0.4529750479846449,
+        "rayleigh_accuracy": 0.48686651694170485,
+        "raw": {
+          "total_model_size_mb": 45.37,
+          "awgn_final_acc_mean": 12.39,
+          "rayleigh_final_acc_mean": 12.465,
+          "awgn_comm_gb_mean": 20.681099221110344,
+          "rayleigh_comm_gb_mean": 20.681099221110344,
+          "avg_comm_gb_mean": 20.681099221110344
+        }
+      },
+      "CA-SSFL (Ours)": {
+        "inv_total_model_size": 0.9485866904073001,
+        "inv_avg_comm_overhead": 1.0,
+        "awgn_accuracy": 0.8586966456448222,
+        "rayleigh_accuracy": 0.8408358558734498,
+        "raw": {
+          "total_model_size_mb": 44.93,
+          "awgn_final_acc_mean": 23.4875,
+          "rayleigh_final_acc_mean": 21.5275,
+          "awgn_comm_gb_mean": 15.424005625303835,
+          "rayleigh_comm_gb_mean": 14.3010180182755,
+          "avg_comm_gb_mean": 14.862511821789667
+        }
+      }
+    }
+  }
+}

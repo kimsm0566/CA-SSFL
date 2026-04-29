@@ -1,0 +1,8 @@
+- [2026-04-11 21:12:12 KST] rayleigh semantic-aware variable-refinement reimplementation pilot nclients=8 시작
+- [2026-04-11 21:12:12 KST] START smoke_semantic_aware_variable_refinement_reimplementation
+- [2026-04-11 21:12:27 KST] END smoke_semantic_aware_variable_refinement_reimplementation
+- [2026-04-11 21:12:27 KST] START rayleigh_semantic_aware_variable_refinement_reimplementation_seed_1
+- [2026-04-11 21:20:45 KST] END rayleigh_semantic_aware_variable_refinement_reimplementation_seed_1
+- [2026-04-11 21:20:45 KST] START rayleigh_semantic_aware_variable_refinement_reimplementation_seed_2
+- [2026-04-11 21:29:05 KST] END rayleigh_semantic_aware_variable_refinement_reimplementation_seed_2
+- [2026-04-11 21:29:05 KST] rayleigh semantic-aware variable-refinement reimplementation pilot nclients=8 완료

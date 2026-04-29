@@ -1,0 +1,26 @@
+{
+  "SFL": {
+    "accuracy_raw": 53.7,
+    "comm_mb_raw": 172882.75,
+    "comp_mflops_raw": 70.5,
+    "accuracy_norm": 1.0,
+    "inv_comm_latency_norm": 0.0830810477042967,
+    "inv_comp_latency_norm": 1.0
+  },
+  "SC-USFL": {
+    "accuracy_raw": 39.76,
+    "comm_mb_raw": 23821.53,
+    "comp_mflops_raw": 80.27,
+    "accuracy_norm": 0.7404096834264431,
+    "inv_comm_latency_norm": 0.6029537145598961,
+    "inv_comp_latency_norm": 0.8782857854740252
+  },
+  "CA-SSFL (Ours)": {
+    "accuracy_raw": 41.71,
+    "comm_mb_raw": 14363.28,
+    "comp_mflops_raw": 113.84,
+    "accuracy_norm": 0.7767225325884544,
+    "inv_comm_latency_norm": 1.0,
+    "inv_comp_latency_norm": 0.6192902319044272
+  }
+}

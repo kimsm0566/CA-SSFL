@@ -1,0 +1,26 @@
+- [2026-04-09 18:48:01 KST] awgn three-way benchmark 시작
+- [2026-04-09 18:48:01 KST] START awgn_sfl_seed_1
+- [2026-04-09 18:52:25 KST] END awgn_sfl_seed_1
+- [2026-04-09 18:52:25 KST] START awgn_sfl_seed_2
+- [2026-04-09 18:56:48 KST] END awgn_sfl_seed_2
+- [2026-04-09 18:56:48 KST] START awgn_sfl_seed_3
+- [2026-04-09 19:01:14 KST] END awgn_sfl_seed_3
+- [2026-04-09 19:01:14 KST] START awgn_sfl_seed_4
+- [2026-04-09 19:05:40 KST] END awgn_sfl_seed_4
+- [2026-04-09 19:05:40 KST] START awgn_scusfl_seed_1
+- [2026-04-09 19:10:46 KST] END awgn_scusfl_seed_1
+- [2026-04-09 19:10:46 KST] START awgn_scusfl_seed_2
+- [2026-04-09 19:15:54 KST] END awgn_scusfl_seed_2
+- [2026-04-09 19:15:54 KST] START awgn_scusfl_seed_3
+- [2026-04-09 19:21:00 KST] END awgn_scusfl_seed_3
+- [2026-04-09 19:21:00 KST] START awgn_scusfl_seed_4
+- [2026-04-09 19:26:05 KST] END awgn_scusfl_seed_4
+- [2026-04-09 19:26:05 KST] START awgn_ssflv6_candidate_seed_1
+- [2026-04-09 19:33:46 KST] END awgn_ssflv6_candidate_seed_1
+- [2026-04-09 19:33:46 KST] START awgn_ssflv6_candidate_seed_2
+- [2026-04-09 19:41:28 KST] END awgn_ssflv6_candidate_seed_2
+- [2026-04-09 19:41:28 KST] START awgn_ssflv6_candidate_seed_3
+- [2026-04-09 19:49:13 KST] END awgn_ssflv6_candidate_seed_3
+- [2026-04-09 19:49:13 KST] START awgn_ssflv6_candidate_seed_4
+- [2026-04-09 19:56:56 KST] END awgn_ssflv6_candidate_seed_4
+- [2026-04-09 19:56:56 KST] awgn three-way benchmark 완료

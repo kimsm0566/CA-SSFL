@@ -1,0 +1,18 @@
+- [2026-04-15 15:23:31 KST] fair w/o VIB ablation 시작
+- [2026-04-15 15:23:33 KST] START cifar10_awgn_SSFLv6_w_o_vib_fair_seed_1
+- [2026-04-15 15:30:19 KST] END cifar10_awgn_SSFLv6_w_o_vib_fair_seed_1
+- [2026-04-15 15:30:21 KST] START cifar10_awgn_SSFLv6_w_o_vib_fair_seed_2
+- [2026-04-15 15:37:06 KST] END cifar10_awgn_SSFLv6_w_o_vib_fair_seed_2
+- [2026-04-15 15:37:08 KST] START cifar10_awgn_SSFLv6_w_o_vib_fair_seed_3
+- [2026-04-15 15:43:55 KST] END cifar10_awgn_SSFLv6_w_o_vib_fair_seed_3
+- [2026-04-15 15:43:57 KST] START cifar10_awgn_SSFLv6_w_o_vib_fair_seed_4
+- [2026-04-15 15:50:45 KST] END cifar10_awgn_SSFLv6_w_o_vib_fair_seed_4
+- [2026-04-15 15:50:47 KST] START cifar10_rayleigh_SSFLv6_w_o_vib_fair_seed_1
+- [2026-04-15 15:57:31 KST] END cifar10_rayleigh_SSFLv6_w_o_vib_fair_seed_1
+- [2026-04-15 15:57:33 KST] START cifar10_rayleigh_SSFLv6_w_o_vib_fair_seed_2
+- [2026-04-15 16:04:18 KST] END cifar10_rayleigh_SSFLv6_w_o_vib_fair_seed_2
+- [2026-04-15 16:04:20 KST] START cifar10_rayleigh_SSFLv6_w_o_vib_fair_seed_3
+- [2026-04-15 16:11:12 KST] END cifar10_rayleigh_SSFLv6_w_o_vib_fair_seed_3
+- [2026-04-15 16:11:14 KST] START cifar10_rayleigh_SSFLv6_w_o_vib_fair_seed_4
+- [2026-04-15 16:18:00 KST] END cifar10_rayleigh_SSFLv6_w_o_vib_fair_seed_4
+- [2026-04-15 16:18:00 KST] fair w/o VIB ablation 완료

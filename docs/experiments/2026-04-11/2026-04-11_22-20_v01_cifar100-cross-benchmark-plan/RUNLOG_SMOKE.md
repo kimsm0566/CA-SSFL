@@ -1,0 +1,10 @@
+- [2026-04-11 22:10:46 KST] cifar100 smoke 시작
+- [2026-04-11 22:10:46 KST] START cifar100_awgn_sfl_smoke
+- [2026-04-11 22:10:56 KST] END cifar100_awgn_sfl_smoke
+- [2026-04-11 22:10:56 KST] START cifar100_awgn_scusfl_smoke
+- [2026-04-11 22:11:10 KST] END cifar100_awgn_scusfl_smoke
+- [2026-04-11 22:11:10 KST] START cifar100_awgn_ca_ssfl_smoke
+- [2026-04-11 22:11:26 KST] END cifar100_awgn_ca_ssfl_smoke
+- [2026-04-11 22:11:26 KST] START cifar100_rayleigh_ca_ssfl_smoke
+- [2026-04-11 22:11:41 KST] END cifar100_rayleigh_ca_ssfl_smoke
+- [2026-04-11 22:11:41 KST] cifar100 smoke 완료

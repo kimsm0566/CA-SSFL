@@ -1,0 +1,6 @@
+- [2026-04-10 11:22:43 KST] rayleigh encoder downsampling pilot nclients=8 시작
+- [2026-04-10 11:22:43 KST] START rayleigh_encoder_downsampling_seed_1
+- [2026-04-10 11:30:59 KST] END rayleigh_encoder_downsampling_seed_1
+- [2026-04-10 11:30:59 KST] START rayleigh_encoder_downsampling_seed_2
+- [2026-04-10 11:39:12 KST] END rayleigh_encoder_downsampling_seed_2
+- [2026-04-10 11:39:12 KST] rayleigh encoder downsampling pilot nclients=8 완료

@@ -1,0 +1,306 @@
+{
+  "awgn": {
+    "SFL": {
+      "label": "SFL",
+      "paths": [
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SFL/snr_10/compress_4096/channel_type_awgn/seed_1.npz",
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SFL/snr_10/compress_4096/channel_type_awgn/seed_2.npz",
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SFL/snr_10/compress_4096/channel_type_awgn/seed_3.npz",
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SFL/snr_10/compress_4096/channel_type_awgn/seed_4.npz"
+      ],
+      "count": 4,
+      "snrs": [
+        -6,
+        -4,
+        -2,
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "final_acc_mean": 51.042500000000004,
+      "final_acc_std": 3.6136710904563527,
+      "comm_mean": 153673.5563249588,
+      "comm_std": 0.00045869553607316417,
+      "snr_acc_mean": [
+        43.765,
+        46.432500000000005,
+        48.3825,
+        50.13,
+        51.092499999999994,
+        51.9375,
+        52.567499999999995,
+        52.982499999999995,
+        53.07,
+        53.18000000000001
+      ],
+      "snr_acc_std": [
+        1.349712932441563,
+        2.2677783732102212,
+        2.951570556500387,
+        3.1180282230922796,
+        3.50212346298642,
+        3.5723267977608115,
+        4.014463693944684,
+        4.032197756807074,
+        4.227463778673922,
+        4.127408387838549
+      ]
+    },
+    "SC-USFL": {
+      "label": "SC-USFL",
+      "paths": [
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SC-USFL/snr_10/compress_1352/channel_type_awgn/seed_1.npz",
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SC-USFL/snr_10/compress_1352/channel_type_awgn/seed_2.npz",
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SC-USFL/snr_10/compress_1352/channel_type_awgn/seed_3.npz",
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SC-USFL/snr_10/compress_1352/channel_type_awgn/seed_4.npz"
+      ],
+      "count": 4,
+      "snrs": [
+        -6,
+        -4,
+        -2,
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "final_acc_mean": 36.692499999999995,
+      "final_acc_std": 3.6137056811533506,
+      "comm_mean": 21177.445602416992,
+      "comm_std": 7.679587197082297,
+      "snr_acc_mean": [
+        36.6275,
+        36.8925,
+        36.835,
+        36.93,
+        36.902499999999996,
+        36.9875,
+        36.905,
+        37.0225,
+        37.019999999999996,
+        37.0
+      ],
+      "snr_acc_std": [
+        3.5337612751854075,
+        3.604499791926752,
+        3.506383464483027,
+        3.5323929566230317,
+        3.555371815998995,
+        3.6143835919835627,
+        3.579263192334422,
+        3.6390065608624567,
+        3.6495136662300625,
+        3.6525949679645575
+      ]
+    },
+    "SSFLv6 Candidate": {
+      "label": "SSFLv6 Candidate",
+      "paths": [
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_1.npz",
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_2.npz",
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_3.npz",
+        "/workspace/tmp/2026-04-09-awgn-threeway-benchmark-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_4.npz"
+      ],
+      "count": 4,
+      "snrs": [
+        -6,
+        -4,
+        -2,
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "final_acc_mean": 41.372499999999995,
+      "final_acc_std": 1.7183476801858215,
+      "comm_mean": 17375.083186149597,
+      "comm_std": 745.7581385827032,
+      "snr_acc_mean": [
+        40.935,
+        41.225,
+        41.405,
+        41.62,
+        41.425,
+        41.4875,
+        41.519999999999996,
+        41.427499999999995,
+        41.45,
+        41.442499999999995
+      ],
+      "snr_acc_std": [
+        2.277855350982587,
+        2.1471667378198656,
+        1.91762222556999,
+        1.9186062649746556,
+        1.8143111640509726,
+        1.7055699194111025,
+        1.7393533281078903,
+        1.7362945458648427,
+        1.7279322903401044,
+        1.696457706516729
+      ]
+    }
+  },
+  "rayleigh": {
+    "SFL": {
+      "label": "SFL",
+      "paths": [
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SFL/snr_10/compress_4096/channel_type_rayleigh/seed_1.npz",
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SFL/snr_10/compress_4096/channel_type_rayleigh/seed_2.npz",
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SFL/snr_10/compress_4096/channel_type_rayleigh/seed_3.npz",
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SFL/snr_10/compress_4096/channel_type_rayleigh/seed_4.npz"
+      ],
+      "count": 4,
+      "snrs": [
+        -6,
+        -4,
+        -2,
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "final_acc_mean": 51.067499999999995,
+      "final_acc_std": 0.6131221330208205,
+      "comm_mean": 172882.75374603271,
+      "comm_std": 6.997656375062615e-05,
+      "snr_acc_mean": [
+        44.925,
+        47.1325,
+        48.705,
+        50.17,
+        51.04,
+        51.6675,
+        52.2475,
+        52.74,
+        52.940000000000005,
+        53.05
+      ],
+      "snr_acc_std": [
+        0.5620720594372219,
+        0.5727728607397524,
+        0.5217518567288468,
+        0.4654567649094819,
+        0.3297726489568229,
+        0.43083494519363263,
+        0.32964943500634,
+        0.5650221234606646,
+        0.5815496539419475,
+        0.7021039809031128
+      ]
+    },
+    "SC-USFL": {
+      "label": "SC-USFL",
+      "paths": [
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SC-USFL/snr_10/compress_1352/channel_type_rayleigh/seed_1.npz",
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SC-USFL/snr_10/compress_1352/channel_type_rayleigh/seed_2.npz",
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SC-USFL/snr_10/compress_1352/channel_type_rayleigh/seed_3.npz",
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/SC-USFL/snr_10/compress_1352/channel_type_rayleigh/seed_4.npz"
+      ],
+      "count": 4,
+      "snrs": [
+        -6,
+        -4,
+        -2,
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "final_acc_mean": 40.9,
+      "final_acc_std": 3.023681530849439,
+      "comm_mean": 23821.52862548828,
+      "comm_std": 13.326005479457836,
+      "snr_acc_mean": [
+        40.0875,
+        40.67,
+        40.849999999999994,
+        41.135000000000005,
+        41.105,
+        41.1875,
+        41.23,
+        41.2975,
+        41.42,
+        41.3675
+      ],
+      "snr_acc_std": [
+        3.046492860651409,
+        3.1122901535685896,
+        3.2256394714846843,
+        3.252610490052567,
+        3.3287873167266167,
+        3.2372470943689176,
+        3.3448243601122,
+        3.275472294189039,
+        3.4915254545828525,
+        3.358715342210469
+      ]
+    },
+    "SSFLv6 Candidate": {
+      "label": "SSFLv6 Candidate",
+      "paths": [
+        "/workspace/tmp/2026-04-09-rayleigh-seq-full/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_1.npz",
+        "/workspace/tmp/2026-04-09-rayleigh-seq-full/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_2.npz",
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_3.npz",
+        "/workspace/tmp/2026-04-09-cross-benchmark/cifar10/n_clients_9/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_4.npz"
+      ],
+      "count": 4,
+      "snrs": [
+        -6,
+        -4,
+        -2,
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "final_acc_mean": 43.675000000000004,
+      "final_acc_std": 3.640511639866024,
+      "comm_mean": 23406.293582439423,
+      "comm_std": 439.92628478338764,
+      "snr_acc_mean": [
+        40.975,
+        42.129999999999995,
+        42.822500000000005,
+        43.235,
+        43.82750000000001,
+        44.125,
+        44.3575,
+        44.3775,
+        44.515,
+        44.6175
+      ],
+      "snr_acc_std": [
+        3.4199744151089795,
+        3.6583534547662295,
+        3.5856615498398607,
+        3.5977875145705855,
+        3.672100046295035,
+        3.707293487168234,
+        3.7747276391814015,
+        3.5672774983171673,
+        3.6425574806720618,
+        3.7268577582193827
+      ]
+    }
+  }
+}

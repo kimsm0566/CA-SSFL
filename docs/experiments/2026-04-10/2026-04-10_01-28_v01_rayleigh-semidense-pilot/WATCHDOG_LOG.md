@@ -1,0 +1,58 @@
+- [2026-04-10 01:42:46 KST] watchdog started: interval=1800s stale=1200s
+- [2026-04-10 01:43:12 KST] watchdog started: interval=5s stale=5s
+- [2026-04-10 01:43:27 KST] watchdog started: interval=5s stale=5s
+- [2026-04-10 01:43:30 KST] watchdog started: interval=5s stale=5s
+- [2026-04-10 01:43:48 KST] watchdog started: interval=1800s stale=1200s
+- [2026-04-10 01:44:08 KST] watchdog started: interval=1800s stale=1200s
+- [2026-04-10 01:44:08 KST] status gpu_util=40% container=2324e688b235 stale=0s latent_done=yes latent_pids=1143569,1143573,1301755 queue_pids=1280438,1280439
+- [2026-04-10 01:44:30 KST] watchdog started: interval=1800s stale=1200s
+- [2026-04-10 02:14:08 KST] status gpu_util=0% container=none stale=434s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 02:14:08 KST] queue runner absent, restarting
+- [2026-04-10 02:14:08 KST] restarting queue runner
+- [2026-04-10 02:44:13 KST] status gpu_util=0% container=none stale=2239s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 02:44:13 KST] queue runner absent, restarting
+- [2026-04-10 02:44:13 KST] restarting queue runner
+- [2026-04-10 03:14:19 KST] status gpu_util=0% container=none stale=4045s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 03:14:19 KST] queue runner absent, restarting
+- [2026-04-10 03:14:19 KST] restarting queue runner
+- [2026-04-10 03:44:24 KST] status gpu_util=0% container=none stale=5850s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 03:44:24 KST] queue runner absent, restarting
+- [2026-04-10 03:44:24 KST] restarting queue runner
+- [2026-04-10 04:14:29 KST] status gpu_util=0% container=none stale=7655s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 04:14:29 KST] queue runner absent, restarting
+- [2026-04-10 04:14:29 KST] restarting queue runner
+- [2026-04-10 04:44:34 KST] status gpu_util=0% container=none stale=9460s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 04:44:34 KST] queue runner absent, restarting
+- [2026-04-10 04:44:34 KST] restarting queue runner
+- [2026-04-10 05:14:39 KST] status gpu_util=0% container=none stale=11265s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 05:14:39 KST] queue runner absent, restarting
+- [2026-04-10 05:14:39 KST] restarting queue runner
+- [2026-04-10 05:44:44 KST] status gpu_util=0% container=none stale=13070s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 05:44:45 KST] queue runner absent, restarting
+- [2026-04-10 05:44:45 KST] restarting queue runner
+- [2026-04-10 06:14:50 KST] status gpu_util=0% container=none stale=14876s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 06:14:50 KST] queue runner absent, restarting
+- [2026-04-10 06:14:50 KST] restarting queue runner
+- [2026-04-10 06:44:55 KST] status gpu_util=0% container=none stale=16681s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 06:44:55 KST] queue runner absent, restarting
+- [2026-04-10 06:44:55 KST] restarting queue runner
+- [2026-04-10 07:15:00 KST] status gpu_util=0% container=none stale=18486s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 07:15:00 KST] queue runner absent, restarting
+- [2026-04-10 07:15:00 KST] restarting queue runner
+- [2026-04-10 07:45:05 KST] status gpu_util=0% container=none stale=20291s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 07:45:05 KST] queue runner absent, restarting
+- [2026-04-10 07:45:05 KST] restarting queue runner
+- [2026-04-10 08:15:10 KST] status gpu_util=0% container=none stale=22096s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 08:15:10 KST] queue runner absent, restarting
+- [2026-04-10 08:15:10 KST] restarting queue runner
+- [2026-04-10 08:45:16 KST] status gpu_util=0% container=none stale=23901s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 08:45:16 KST] queue runner absent, restarting
+- [2026-04-10 08:45:16 KST] restarting queue runner
+- [2026-04-10 09:15:21 KST] status gpu_util=0% container=none stale=25707s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 09:15:21 KST] queue runner absent, restarting
+- [2026-04-10 09:15:21 KST] restarting queue runner
+- [2026-04-10 09:45:26 KST] status gpu_util=0% container=none stale=27512s latent_done=yes latent_pids= queue_pids=
+- [2026-04-10 09:45:26 KST] queue runner absent, restarting
+- [2026-04-10 09:45:26 KST] restarting queue runner
+- [2026-04-10 10:15:31 KST] status gpu_util=91% container=6fbcccc6b1d4 stale=2s latent_done=yes latent_pids= queue_pids=1387067,1387069,1387070
+- [2026-04-10 10:45:31 KST] status gpu_util=92% container=82e1c52c5a69 stale=2s latent_done=yes latent_pids= queue_pids=1387067,1387069,1387070

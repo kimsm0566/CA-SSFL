@@ -1,0 +1,14 @@
+- [2026-04-10 10:04:57 KST] rayleigh semidense pilot nclients=8 시작
+- [2026-04-10 10:04:57 KST] START rayleigh_semidense_g16_k4_seed_1
+- [2026-04-10 10:16:58 KST] END rayleigh_semidense_g16_k4_seed_1
+- [2026-04-10 10:16:58 KST] START rayleigh_semidense_g16_k4_seed_2
+- [2026-04-10 10:29:36 KST] END rayleigh_semidense_g16_k4_seed_2
+- [2026-04-10 10:29:36 KST] START rayleigh_semidense_g16_k8_seed_1
+- [2026-04-10 10:39:45 KST] END rayleigh_semidense_g16_k8_seed_1
+- [2026-04-10 10:39:45 KST] START rayleigh_semidense_g16_k8_seed_2
+- [2026-04-10 10:50:12 KST] END rayleigh_semidense_g16_k8_seed_2
+- [2026-04-10 10:50:12 KST] START rayleigh_semidense_g32_k8_seed_1
+- [2026-04-10 11:00:28 KST] END rayleigh_semidense_g32_k8_seed_1
+- [2026-04-10 11:00:28 KST] START rayleigh_semidense_g32_k8_seed_2
+- [2026-04-10 11:10:53 KST] END rayleigh_semidense_g32_k8_seed_2
+- [2026-04-10 11:10:53 KST] rayleigh semidense pilot nclients=8 완료

@@ -1,0 +1,10 @@
+- [2026-04-11 16:21:40 KST] rayleigh fixed-base variable-refinement pilot nclients=8 시작
+- [2026-04-11 16:21:40 KST] START smoke_fixed_base_variable_refinement
+- [2026-04-11 16:22:04 KST] rayleigh fixed-base variable-refinement pilot nclients=8 시작
+- [2026-04-11 16:22:04 KST] START smoke_fixed_base_variable_refinement
+- [2026-04-11 16:22:19 KST] END smoke_fixed_base_variable_refinement
+- [2026-04-11 16:22:19 KST] START rayleigh_fixed_base_variable_refinement_seed_1
+- [2026-04-11 16:30:17 KST] END rayleigh_fixed_base_variable_refinement_seed_1
+- [2026-04-11 16:30:17 KST] START rayleigh_fixed_base_variable_refinement_seed_2
+- [2026-04-11 16:38:18 KST] END rayleigh_fixed_base_variable_refinement_seed_2
+- [2026-04-11 16:38:18 KST] rayleigh fixed-base variable-refinement pilot nclients=8 완료

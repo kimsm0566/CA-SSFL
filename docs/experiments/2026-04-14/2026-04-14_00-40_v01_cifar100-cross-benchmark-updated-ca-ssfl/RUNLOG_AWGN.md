@@ -1,0 +1,32 @@
+- [2026-04-14 00:41:23 KST] cifar100 awgn three-way benchmark (updated CA-SSFL) 시작
+- [2026-04-14 00:41:23 KST] START cifar100_awgn_sfl_seed_1
+- [2026-04-14 01:16:42 KST] cifar100 awgn three-way benchmark (updated CA-SSFL) 시작
+- [2026-04-14 01:16:42 KST] START cifar100_awgn_sfl_seed_1
+- [2026-04-14 01:17:37 KST] cifar100 awgn three-way benchmark (updated CA-SSFL) 시작
+- [2026-04-14 01:17:37 KST] SKIP cifar100_awgn_sfl_seed_1 (existing artifact: /home/sunmin/SFL_Semantic/tmp/2026-04-14/2026-04-14-cifar100-awgn-threeway-benchmark-updated-ca-ssfl/cifar100/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SFL/snr_10/compress_4096/channel_type_awgn/seed_1.npz)
+- [2026-04-14 01:17:37 KST] START cifar100_awgn_sfl_seed_2
+- [2026-04-14 01:41:25 KST] cifar100 awgn three-way benchmark (updated CA-SSFL) 시작
+- [2026-04-14 01:42:09 KST] cifar100 awgn three-way benchmark (updated CA-SSFL) 시작
+- [2026-04-14 01:42:09 KST] SKIP cifar100_awgn_sfl_seed_1 (existing artifact: /home/sunmin/SFL_Semantic/tmp/2026-04-14/2026-04-14-cifar100-awgn-threeway-benchmark-updated-ca-ssfl/cifar100/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SFL/snr_10/compress_4096/channel_type_awgn/seed_1.npz)
+- [2026-04-14 01:42:09 KST] SKIP cifar100_awgn_sfl_seed_2 (existing artifact: /home/sunmin/SFL_Semantic/tmp/2026-04-14/2026-04-14-cifar100-awgn-threeway-benchmark-updated-ca-ssfl/cifar100/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SFL/snr_10/compress_4096/channel_type_awgn/seed_2.npz)
+- [2026-04-14 01:42:09 KST] START cifar100_awgn_sfl_seed_3
+- [2026-04-14 01:46:29 KST] END cifar100_awgn_sfl_seed_3
+- [2026-04-14 01:46:29 KST] START cifar100_awgn_sfl_seed_4
+- [2026-04-14 01:50:48 KST] END cifar100_awgn_sfl_seed_4
+- [2026-04-14 01:50:48 KST] START cifar100_awgn_scusfl_seed_1
+- [2026-04-14 01:55:52 KST] END cifar100_awgn_scusfl_seed_1
+- [2026-04-14 01:55:52 KST] START cifar100_awgn_scusfl_seed_2
+- [2026-04-14 02:00:54 KST] END cifar100_awgn_scusfl_seed_2
+- [2026-04-14 02:00:54 KST] START cifar100_awgn_scusfl_seed_3
+- [2026-04-14 02:05:58 KST] END cifar100_awgn_scusfl_seed_3
+- [2026-04-14 02:05:58 KST] START cifar100_awgn_scusfl_seed_4
+- [2026-04-14 02:10:59 KST] END cifar100_awgn_scusfl_seed_4
+- [2026-04-14 02:10:59 KST] START cifar100_awgn_ca_ssfl_seed_1
+- [2026-04-14 02:18:33 KST] END cifar100_awgn_ca_ssfl_seed_1
+- [2026-04-14 02:18:33 KST] START cifar100_awgn_ca_ssfl_seed_2
+- [2026-04-14 02:26:09 KST] END cifar100_awgn_ca_ssfl_seed_2
+- [2026-04-14 02:26:09 KST] START cifar100_awgn_ca_ssfl_seed_3
+- [2026-04-14 02:33:41 KST] END cifar100_awgn_ca_ssfl_seed_3
+- [2026-04-14 02:33:41 KST] START cifar100_awgn_ca_ssfl_seed_4
+- [2026-04-14 02:41:16 KST] END cifar100_awgn_ca_ssfl_seed_4
+- [2026-04-14 02:41:16 KST] cifar100 awgn three-way benchmark (updated CA-SSFL) 완료

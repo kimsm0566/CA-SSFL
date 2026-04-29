@@ -1,0 +1,18 @@
+- [2026-04-10 21:47:53 KST] rayleigh four-method suite nclients=8 시작
+- [2026-04-10 21:47:53 KST] START method1_semidense_seed_1
+- [2026-04-10 21:58:02 KST] END method1_semidense_seed_1
+- [2026-04-10 21:58:02 KST] START method2_latent_mixing_seed_1
+- [2026-04-10 22:05:54 KST] END method2_latent_mixing_seed_1
+- [2026-04-10 22:05:54 KST] START method3_support_floor_seed_1
+- [2026-04-10 22:13:39 KST] END method3_support_floor_seed_1
+- [2026-04-10 22:13:39 KST] START method4_semantic_power_seed_1
+- [2026-04-10 22:21:25 KST] END method4_semantic_power_seed_1
+- [2026-04-10 22:21:25 KST] START method1_semidense_seed_2
+- [2026-04-10 22:31:50 KST] END method1_semidense_seed_2
+- [2026-04-10 22:31:50 KST] START method2_latent_mixing_seed_2
+- [2026-04-10 22:39:37 KST] END method2_latent_mixing_seed_2
+- [2026-04-10 22:39:37 KST] START method3_support_floor_seed_2
+- [2026-04-10 22:47:15 KST] END method3_support_floor_seed_2
+- [2026-04-10 22:47:15 KST] START method4_semantic_power_seed_2
+- [2026-04-10 22:54:52 KST] END method4_semantic_power_seed_2
+- [2026-04-10 22:54:52 KST] rayleigh four-method suite nclients=8 완료

@@ -1,0 +1,10 @@
+- [2026-04-09 21:54:05 KST] awgn ca-ssfl orig nclients=8 시작
+- [2026-04-09 21:54:05 KST] START awgn_ca_ssfl_orig_seed_1
+- [2026-04-09 22:01:48 KST] END awgn_ca_ssfl_orig_seed_1
+- [2026-04-09 22:01:48 KST] START awgn_ca_ssfl_orig_seed_2
+- [2026-04-09 22:09:31 KST] END awgn_ca_ssfl_orig_seed_2
+- [2026-04-09 22:09:31 KST] START awgn_ca_ssfl_orig_seed_3
+- [2026-04-09 22:17:17 KST] END awgn_ca_ssfl_orig_seed_3
+- [2026-04-09 22:17:17 KST] START awgn_ca_ssfl_orig_seed_4
+- [2026-04-09 22:25:03 KST] END awgn_ca_ssfl_orig_seed_4
+- [2026-04-09 22:25:03 KST] awgn ca-ssfl orig nclients=8 완료

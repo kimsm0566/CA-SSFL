@@ -1,0 +1,50 @@
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Logs and transient output
+*.log
+output.log
+tmp/
+.tmp*/
+
+# Protected/generated research artifacts
+results/
+results*/
+src/results/
+src/old_results/
+src/old_results2/
+src/123results/
+src/checkpoints/
+
+# Local datasets and downloaded data
+src/datasets/
+src/data/cifar-10-batches-py/
+src/data/cifar-100-python/
+src/data/FashionMNIST/
+src/data/*.tar.gz
+src/data/*.npz
+
+# Model/data/result binaries
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.pkl
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*~

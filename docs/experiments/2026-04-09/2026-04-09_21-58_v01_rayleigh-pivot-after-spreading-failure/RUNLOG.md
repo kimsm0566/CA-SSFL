@@ -1,0 +1,18 @@
+- [2026-04-09 22:57:07 KST] rayleigh semantic power sweep nclients=8 시작
+- [2026-04-09 22:57:07 KST] START rayleigh_semantic_power_alpha_0.5_seed_1
+- [2026-04-09 23:04:57 KST] END rayleigh_semantic_power_alpha_0.5_seed_1
+- [2026-04-09 23:04:57 KST] START rayleigh_semantic_power_alpha_0.5_seed_2
+- [2026-04-09 23:12:53 KST] END rayleigh_semantic_power_alpha_0.5_seed_2
+- [2026-04-09 23:12:53 KST] START rayleigh_semantic_power_alpha_1.0_seed_1
+- [2026-04-09 23:20:49 KST] END rayleigh_semantic_power_alpha_1.0_seed_1
+- [2026-04-09 23:20:49 KST] START rayleigh_semantic_power_alpha_1.0_seed_2
+- [2026-04-09 23:28:46 KST] END rayleigh_semantic_power_alpha_1.0_seed_2
+- [2026-04-09 23:28:46 KST] START rayleigh_semantic_power_alpha_2.0_seed_1
+- [2026-04-09 23:36:40 KST] END rayleigh_semantic_power_alpha_2.0_seed_1
+- [2026-04-09 23:36:40 KST] START rayleigh_semantic_power_alpha_2.0_seed_2
+- [2026-04-09 23:44:34 KST] END rayleigh_semantic_power_alpha_2.0_seed_2
+- [2026-04-09 23:44:35 KST] START rayleigh_semantic_power_alpha_4.0_seed_1
+- [2026-04-09 23:52:28 KST] END rayleigh_semantic_power_alpha_4.0_seed_1
+- [2026-04-09 23:52:28 KST] START rayleigh_semantic_power_alpha_4.0_seed_2
+- [2026-04-10 00:00:21 KST] END rayleigh_semantic_power_alpha_4.0_seed_2
+- [2026-04-10 00:00:21 KST] rayleigh semantic power sweep nclients=8 완료

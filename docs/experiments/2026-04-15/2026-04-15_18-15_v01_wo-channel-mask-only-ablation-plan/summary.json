@@ -1,0 +1,402 @@
+{
+  "awgn": {
+    "baseline": {
+      "seeds": [
+        {
+          "final_acc": 43.49,
+          "best_acc": 45.58,
+          "comm_mb": 14688.295700073242,
+          "comm_gb": 14.344038769602776,
+          "minus6_acc": 41.1,
+          "plus12_acc": 43.85,
+          "seed": 1,
+          "npz_path": "/workspace/tmp/2026-04-14/2026-04-14-table1-blockB-channel-specific-rerun/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_1.npz"
+        },
+        {
+          "final_acc": 43.46,
+          "best_acc": 46.69,
+          "comm_mb": 14497.619388580322,
+          "comm_gb": 14.157831434160471,
+          "minus6_acc": 43.62,
+          "plus12_acc": 43.13,
+          "seed": 2,
+          "npz_path": "/workspace/tmp/2026-04-14/2026-04-14-table1-blockB-channel-specific-rerun/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_2.npz"
+        },
+        {
+          "final_acc": 41.66,
+          "best_acc": 42.02,
+          "comm_mb": 14919.01021194458,
+          "comm_gb": 14.569345910102129,
+          "minus6_acc": 38.89,
+          "plus12_acc": 42.08,
+          "seed": 3,
+          "npz_path": "/workspace/tmp/2026-04-14/2026-04-14-table1-blockB-channel-specific-rerun/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_3.npz"
+        },
+        {
+          "final_acc": 38.24,
+          "best_acc": 42.97,
+          "comm_mb": 13348.202276229858,
+          "comm_gb": 13.035353785380721,
+          "minus6_acc": 35.94,
+          "plus12_acc": 38.86,
+          "seed": 4,
+          "npz_path": "/workspace/tmp/2026-04-14/2026-04-14-table1-blockB-channel-specific-rerun/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_4.npz"
+        }
+      ],
+      "summary": {
+        "final_acc_mean": 41.712500000000006,
+        "final_acc_std": 2.1374210511735865,
+        "best_acc_mean": 44.315,
+        "best_acc_std": 1.891883981643693,
+        "comm_mb_mean": 14363.281894207,
+        "comm_mb_std": 604.752248934682,
+        "comm_gb_mean": 14.026642474811524,
+        "comm_gb_std": 0.5905783681002754,
+        "minus6_mean": 39.8875,
+        "minus6_std": 2.827519893829219,
+        "plus12_mean": 41.980000000000004,
+        "plus12_std": 1.9081273542402781
+      }
+    },
+    "proxy_wo_film": {
+      "seeds": [
+        {
+          "final_acc": 41.07,
+          "best_acc": 42.29,
+          "comm_mb": 18543.946632385254,
+          "comm_gb": 18.109322883188725,
+          "minus6_acc": 40.15,
+          "plus12_acc": 41.39,
+          "seed": 1,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-channel-specific-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6_w_o_film/snr_10/compress_4096/channel_type_awgn/seed_1.npz"
+        },
+        {
+          "final_acc": 37.76,
+          "best_acc": 40.91,
+          "comm_mb": 17981.289373397827,
+          "comm_gb": 17.559852903708816,
+          "minus6_acc": 37.94,
+          "plus12_acc": 37.82,
+          "seed": 2,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-channel-specific-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6_w_o_film/snr_10/compress_4096/channel_type_awgn/seed_2.npz"
+        },
+        {
+          "final_acc": 41.57,
+          "best_acc": 42.66,
+          "comm_mb": 18885.258752822876,
+          "comm_gb": 18.44263550080359,
+          "minus6_acc": 41.41,
+          "plus12_acc": 41.56,
+          "seed": 3,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-channel-specific-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6_w_o_film/snr_10/compress_4096/channel_type_awgn/seed_3.npz"
+        },
+        {
+          "final_acc": 36.95,
+          "best_acc": 42.91,
+          "comm_mb": 15122.090873718262,
+          "comm_gb": 14.76766686886549,
+          "minus6_acc": 36.1,
+          "plus12_acc": 36.76,
+          "seed": 4,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-channel-specific-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6_w_o_film/snr_10/compress_4096/channel_type_awgn/seed_4.npz"
+        }
+      ],
+      "summary": {
+        "final_acc_mean": 39.337500000000006,
+        "final_acc_std": 2.010862688002341,
+        "best_acc_mean": 42.192499999999995,
+        "best_acc_std": 0.7726051708343662,
+        "comm_mb_mean": 17633.146408081055,
+        "comm_mb_std": 1485.2563577881942,
+        "comm_gb_mean": 17.219869539141655,
+        "comm_gb_std": 1.4504456619025334,
+        "minus6_mean": 38.9,
+        "minus6_std": 2.0386392520502477,
+        "plus12_mean": 39.3825,
+        "plus12_std": 2.1266449515610275
+      }
+    },
+    "exact_wo_channel_mask": {
+      "seeds": [
+        {
+          "final_acc": 41.13,
+          "best_acc": 43.75,
+          "comm_mb": 16323.492263793945,
+          "comm_gb": 15.940910413861275,
+          "minus6_acc": 40.16,
+          "plus12_acc": 41.27,
+          "seed": 1,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-wo-channel-mask-only-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/channel_mask_allpass_1/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_1.npz"
+        },
+        {
+          "final_acc": 41.89,
+          "best_acc": 49.73,
+          "comm_mb": 15670.978515625,
+          "comm_gb": 15.303689956665039,
+          "minus6_acc": 42.13,
+          "plus12_acc": 42.02,
+          "seed": 2,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-wo-channel-mask-only-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/channel_mask_allpass_1/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_2.npz"
+        },
+        {
+          "final_acc": 41.98,
+          "best_acc": 42.72,
+          "comm_mb": 15545.040378570557,
+          "comm_gb": 15.18070349469781,
+          "minus6_acc": 41.16,
+          "plus12_acc": 41.96,
+          "seed": 3,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-wo-channel-mask-only-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/channel_mask_allpass_1/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_3.npz"
+        },
+        {
+          "final_acc": 33.61,
+          "best_acc": 38.75,
+          "comm_mb": 14101.200828552246,
+          "comm_gb": 13.770703934133053,
+          "minus6_acc": 34.1,
+          "plus12_acc": 33.67,
+          "seed": 4,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-wo-channel-mask-only-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.05/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/channel_mask_allpass_1/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_awgn/seed_4.npz"
+        }
+      ],
+      "summary": {
+        "final_acc_mean": 39.6525,
+        "final_acc_std": 3.50422869544783,
+        "best_acc_mean": 43.7375,
+        "best_acc_std": 3.9313062396613154,
+        "comm_mb_mean": 15410.177996635437,
+        "comm_mb_std": 811.4445375262583,
+        "comm_gb_mean": 15.049001949839294,
+        "comm_gb_std": 0.7924263061779866,
+        "minus6_mean": 39.387499999999996,
+        "minus6_std": 3.1311928637501705,
+        "plus12_mean": 39.730000000000004,
+        "plus12_std": 3.5111322959979736
+      }
+    },
+    "exact_vs_baseline": {
+      "final_acc_delta": -2.0600000000000023,
+      "comm_mb_delta": 1046.8961024284363,
+      "comm_gb_delta": 1.0223594750277698,
+      "minus6_delta": -0.5000000000000071,
+      "plus12_delta": -2.25,
+      "best_acc_delta": -0.5775000000000006
+    },
+    "proxy_vs_baseline": {
+      "final_acc_delta": -2.375,
+      "comm_mb_delta": 3269.864513874054,
+      "comm_gb_delta": 3.193227064330131,
+      "minus6_delta": -0.9875000000000043,
+      "plus12_delta": -2.5975000000000037,
+      "best_acc_delta": -2.1225000000000023
+    },
+    "exact_vs_proxy": {
+      "final_acc_delta": 0.3149999999999977,
+      "comm_mb_delta": -2222.9684114456177,
+      "comm_gb_delta": -2.170867589302361,
+      "minus6_delta": 0.48749999999999716,
+      "plus12_delta": 0.3475000000000037,
+      "best_acc_delta": 1.5450000000000017
+    }
+  },
+  "rayleigh": {
+    "baseline": {
+      "seeds": [
+        {
+          "final_acc": 44.04,
+          "best_acc": 44.44,
+          "comm_mb": 14417.325010299683,
+          "comm_gb": 14.079418955370784,
+          "minus6_acc": 40.54,
+          "plus12_acc": 44.87,
+          "seed": 1,
+          "npz_path": "/workspace/tmp/2026-04-14/2026-04-14-table1-blockB-channel-specific-rerun/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_1.npz"
+        },
+        {
+          "final_acc": 39.85,
+          "best_acc": 44.02,
+          "comm_mb": 15291.503602981567,
+          "comm_gb": 14.933108987286687,
+          "minus6_acc": 38.1,
+          "plus12_acc": 40.19,
+          "seed": 2,
+          "npz_path": "/workspace/tmp/2026-04-14/2026-04-14-table1-blockB-channel-specific-rerun/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_2.npz"
+        },
+        {
+          "final_acc": 42.1,
+          "best_acc": 42.28,
+          "comm_mb": 15641.349891662598,
+          "comm_gb": 15.274755753576756,
+          "minus6_acc": 39.43,
+          "plus12_acc": 42.63,
+          "seed": 3,
+          "npz_path": "/workspace/tmp/2026-04-14/2026-04-14-table1-blockB-channel-specific-rerun/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_3.npz"
+        },
+        {
+          "final_acc": 35.63,
+          "best_acc": 40.41,
+          "comm_mb": 14423.609767913818,
+          "comm_gb": 14.085556413978338,
+          "minus6_acc": 33.43,
+          "plus12_acc": 36.73,
+          "seed": 4,
+          "npz_path": "/workspace/tmp/2026-04-14/2026-04-14-table1-blockB-channel-specific-rerun/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_4.npz"
+        }
+      ],
+      "summary": {
+        "final_acc_mean": 40.405,
+        "final_acc_std": 3.130291519970623,
+        "best_acc_mean": 42.7875,
+        "best_acc_std": 1.5937279410238134,
+        "comm_mb_mean": 14943.447068214417,
+        "comm_mb_std": 537.4120721055931,
+        "comm_gb_mean": 14.593210027553141,
+        "comm_gb_std": 0.5248164766656183,
+        "minus6_mean": 37.875,
+        "minus6_std": 2.7078081542088612,
+        "plus12_mean": 41.105,
+        "plus12_std": 3.0198799645019014
+      }
+    },
+    "proxy_wo_film": {
+      "seeds": [
+        {
+          "final_acc": 39.93,
+          "best_acc": 42.83,
+          "comm_mb": 18506.84697341919,
+          "comm_gb": 18.073092747479677,
+          "minus6_acc": 37.87,
+          "plus12_acc": 40.65,
+          "seed": 1,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-channel-specific-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6_w_o_film/snr_10/compress_4096/channel_type_rayleigh/seed_1.npz"
+        },
+        {
+          "final_acc": 39.41,
+          "best_acc": 40.89,
+          "comm_mb": 16739.582801818848,
+          "comm_gb": 16.34724882990122,
+          "minus6_acc": 37.61,
+          "plus12_acc": 39.74,
+          "seed": 2,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-channel-specific-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6_w_o_film/snr_10/compress_4096/channel_type_rayleigh/seed_2.npz"
+        },
+        {
+          "final_acc": 40.98,
+          "best_acc": 41.47,
+          "comm_mb": 20079.627475738525,
+          "comm_gb": 19.609011206775904,
+          "minus6_acc": 39.18,
+          "plus12_acc": 41.5,
+          "seed": 3,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-channel-specific-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6_w_o_film/snr_10/compress_4096/channel_type_rayleigh/seed_3.npz"
+        },
+        {
+          "final_acc": 31.94,
+          "best_acc": 38.41,
+          "comm_mb": 16258.808511734009,
+          "comm_gb": 15.877742687240243,
+          "minus6_acc": 30.68,
+          "plus12_acc": 32.15,
+          "seed": 4,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-channel-specific-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6_w_o_film/snr_10/compress_4096/channel_type_rayleigh/seed_4.npz"
+        }
+      ],
+      "summary": {
+        "final_acc_mean": 38.065,
+        "final_acc_std": 3.58120440634153,
+        "best_acc_mean": 40.9,
+        "best_acc_std": 1.6007810593582128,
+        "comm_mb_mean": 17896.216440677643,
+        "comm_mb_std": 1513.1969052183094,
+        "comm_gb_mean": 17.47677386784926,
+        "comm_gb_std": 1.4777313527522553,
+        "minus6_mean": 36.335,
+        "minus6_std": 3.3186932669350444,
+        "plus12_mean": 38.51,
+        "plus12_std": 3.724318729647075
+      }
+    },
+    "exact_wo_channel_mask": {
+      "seeds": [
+        {
+          "final_acc": 40.27,
+          "best_acc": 41.93,
+          "comm_mb": 17003.22999572754,
+          "comm_gb": 16.604716792702675,
+          "minus6_acc": 37.6,
+          "plus12_acc": 41.04,
+          "seed": 1,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-wo-channel-mask-only-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/channel_mask_allpass_1/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_1.npz"
+        },
+        {
+          "final_acc": 39.27,
+          "best_acc": 40.76,
+          "comm_mb": 16857.52667617798,
+          "comm_gb": 16.462428394705057,
+          "minus6_acc": 37.08,
+          "plus12_acc": 39.62,
+          "seed": 2,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-wo-channel-mask-only-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/channel_mask_allpass_1/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_2.npz"
+        },
+        {
+          "final_acc": 41.78,
+          "best_acc": 41.97,
+          "comm_mb": 16107.276971817017,
+          "comm_gb": 15.729762667790055,
+          "minus6_acc": 39.29,
+          "plus12_acc": 42.05,
+          "seed": 3,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-wo-channel-mask-only-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/channel_mask_allpass_1/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_3.npz"
+        },
+        {
+          "final_acc": 35.62,
+          "best_acc": 36.53,
+          "comm_mb": 14344.240850448608,
+          "comm_gb": 14.00804770551622,
+          "minus6_acc": 33.6,
+          "plus12_acc": 36.92,
+          "seed": 4,
+          "npz_path": "/workspace/tmp/2026-04-15/2026-04-15-cifar10-wo-channel-mask-only-ablation/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.1/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/channel_mask_allpass_1/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_4.npz"
+        }
+      ],
+      "summary": {
+        "final_acc_mean": 39.235,
+        "final_acc_std": 2.270335878234762,
+        "best_acc_mean": 40.2975,
+        "best_acc_std": 2.228804331923284,
+        "comm_mb_mean": 16078.068623542786,
+        "comm_mb_std": 1057.1766993698648,
+        "comm_gb_mean": 15.701238890178502,
+        "comm_gb_std": 1.0323991204783836,
+        "minus6_mean": 36.8925,
+        "minus6_std": 2.0690743703405143,
+        "plus12_mean": 39.9075,
+        "plus12_std": 1.9287738981021063
+      }
+    },
+    "exact_vs_baseline": {
+      "final_acc_delta": -1.1700000000000017,
+      "comm_mb_delta": 1134.6215553283691,
+      "comm_gb_delta": 1.1080288626253605,
+      "minus6_delta": -0.9825000000000017,
+      "plus12_delta": -1.197499999999998,
+      "best_acc_delta": -2.490000000000002
+    },
+    "proxy_vs_baseline": {
+      "final_acc_delta": -2.3400000000000034,
+      "comm_mb_delta": 2952.7693724632263,
+      "comm_gb_delta": 2.8835638402961195,
+      "minus6_delta": -1.5399999999999991,
+      "plus12_delta": -2.594999999999999,
+      "best_acc_delta": -1.8875000000000028
+    },
+    "exact_vs_proxy": {
+      "final_acc_delta": 1.1700000000000017,
+      "comm_mb_delta": -1818.1478171348572,
+      "comm_gb_delta": -1.775534977670759,
+      "minus6_delta": 0.5574999999999974,
+      "plus12_delta": 1.3975000000000009,
+      "best_acc_delta": -0.6024999999999991
+    }
+  }
+}

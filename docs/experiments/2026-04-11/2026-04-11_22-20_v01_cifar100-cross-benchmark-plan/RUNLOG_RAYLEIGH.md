@@ -1,0 +1,26 @@
+- [2026-04-11 23:20:40 KST] cifar100 rayleigh three-way benchmark 시작
+- [2026-04-11 23:20:40 KST] START cifar100_rayleigh_sfl_seed_1
+- [2026-04-11 23:25:06 KST] END cifar100_rayleigh_sfl_seed_1
+- [2026-04-11 23:25:06 KST] START cifar100_rayleigh_sfl_seed_2
+- [2026-04-11 23:29:33 KST] END cifar100_rayleigh_sfl_seed_2
+- [2026-04-11 23:29:33 KST] START cifar100_rayleigh_sfl_seed_3
+- [2026-04-11 23:34:00 KST] END cifar100_rayleigh_sfl_seed_3
+- [2026-04-11 23:34:00 KST] START cifar100_rayleigh_sfl_seed_4
+- [2026-04-11 23:38:26 KST] END cifar100_rayleigh_sfl_seed_4
+- [2026-04-11 23:38:26 KST] START cifar100_rayleigh_scusfl_seed_1
+- [2026-04-11 23:43:35 KST] END cifar100_rayleigh_scusfl_seed_1
+- [2026-04-11 23:43:35 KST] START cifar100_rayleigh_scusfl_seed_2
+- [2026-04-11 23:48:43 KST] END cifar100_rayleigh_scusfl_seed_2
+- [2026-04-11 23:48:43 KST] START cifar100_rayleigh_scusfl_seed_3
+- [2026-04-11 23:53:54 KST] END cifar100_rayleigh_scusfl_seed_3
+- [2026-04-11 23:53:54 KST] START cifar100_rayleigh_scusfl_seed_4
+- [2026-04-11 23:59:03 KST] END cifar100_rayleigh_scusfl_seed_4
+- [2026-04-11 23:59:03 KST] START cifar100_rayleigh_ca_ssfl_seed_1
+- [2026-04-12 00:06:46 KST] END cifar100_rayleigh_ca_ssfl_seed_1
+- [2026-04-12 00:06:46 KST] START cifar100_rayleigh_ca_ssfl_seed_2
+- [2026-04-12 00:14:30 KST] END cifar100_rayleigh_ca_ssfl_seed_2
+- [2026-04-12 00:14:30 KST] START cifar100_rayleigh_ca_ssfl_seed_3
+- [2026-04-12 00:22:12 KST] END cifar100_rayleigh_ca_ssfl_seed_3
+- [2026-04-12 00:22:12 KST] START cifar100_rayleigh_ca_ssfl_seed_4
+- [2026-04-12 00:29:52 KST] END cifar100_rayleigh_ca_ssfl_seed_4
+- [2026-04-12 00:29:52 KST] cifar100 rayleigh three-way benchmark 완료

@@ -1,0 +1,30 @@
+- [2026-04-09 13:21:14 KST] watchdog started: interval=1800s stale=1200s
+- [2026-04-09 13:21:33 KST] watchdog started: interval=5s stale=1200s
+- [2026-04-09 13:21:33 KST] status gpu_util=90% container=c1be573b9ff5 latest_server_log_age=1s runner_pids=2086704,2086706,2086707,2086717
+- [2026-04-09 13:21:38 KST] status gpu_util=31% container=c1be573b9ff5 latest_server_log_age=0s runner_pids=2086704,2086706,2086707,2086717
+- [2026-04-09 13:21:43 KST] status gpu_util=92% container=c1be573b9ff5 latest_server_log_age=0s runner_pids=2086704,2086706,2086707,2086717
+- [2026-04-09 13:21:51 KST] watchdog started: interval=1800s stale=1200s
+- [2026-04-09 13:22:07 KST] watchdog started: interval=1800s stale=1200s
+- [2026-04-09 13:22:07 KST] status gpu_util=9% container=c1be573b9ff5 latest_server_log_age=0s runner_pids=2086704,2086706,2086707,2086717
+- [2026-04-09 13:52:07 KST] status gpu_util=92% container=956e1dc024cb latest_server_log_age=1s runner_pids=2086704,2086706,2086707,2186953
+- [2026-04-09 14:22:07 KST] status gpu_util=93% container=afdf05a60596 latest_server_log_age=0s runner_pids=2086704,2086706,2086707,2265076
+- [2026-04-09 14:52:07 KST] status gpu_util=0% container=80017b2a5f6b latest_server_log_age=42s runner_pids=2086704,2086706,2086707,2364277
+- [2026-04-09 15:22:07 KST] status gpu_util=0% container=80017b2a5f6b latest_server_log_age=1842s runner_pids=2086704,2086706,2086707,2364277
+- [2026-04-09 15:22:07 KST] stall suspected: container=80017b2a5f6b, latest_server_log=/home/sunmin/SFL_Semantic/tmp/2026-04-09-comm-reduction-followup-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.001/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_1_server.log
+- [2026-04-09 15:22:07 KST] restarting follow-up runner
+- [2026-04-09 15:22:13 KST] watchdog recovery executed
+- [2026-04-09 15:52:13 KST] status gpu_util=0% container=b1d04e849e3f latest_server_log_age=770s runner_pids=2480163,2480165,2480172,2480277
+- [2026-04-09 16:22:14 KST] status gpu_util=0% container=b1d04e849e3f latest_server_log_age=2571s runner_pids=2480163,2480165,2480172,2480277
+- [2026-04-09 16:22:14 KST] stall suspected: container=b1d04e849e3f, latest_server_log=/home/sunmin/SFL_Semantic/tmp/2026-04-09-comm-reduction-followup-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.001/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_1_server.log
+- [2026-04-09 16:22:14 KST] restarting follow-up runner
+- [2026-04-09 16:22:19 KST] watchdog recovery executed
+- [2026-04-09 16:52:19 KST] status gpu_util=0% container=6731d5e0e4a1 latest_server_log_age=1748s runner_pids=2589068,2589072,2589073,2589175
+- [2026-04-09 16:52:19 KST] stall suspected: container=6731d5e0e4a1, latest_server_log=/home/sunmin/SFL_Semantic/tmp/2026-04-09-comm-reduction-followup-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.001/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_1_server.log
+- [2026-04-09 16:52:20 KST] restarting follow-up runner
+- [2026-04-09 16:52:25 KST] watchdog recovery executed
+- [2026-04-09 17:22:25 KST] status gpu_util=91% container=1806a7e624bf latest_server_log_age=0s runner_pids=2710523,2710524,2748264
+- [2026-04-09 17:52:25 KST] status gpu_util=0% container=140ebc46c184 latest_server_log_age=705s runner_pids=2710523,2710524,2858147
+- [2026-04-09 18:22:25 KST] status gpu_util=0% container=140ebc46c184 latest_server_log_age=2505s runner_pids=2710523,2710524,2858147
+- [2026-04-09 18:22:25 KST] stall suspected: container=140ebc46c184, latest_server_log=/home/sunmin/SFL_Semantic/tmp/2026-04-09-comm-reduction-followup-nclients8/cifar10/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.0001/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.4/semantic_spreading_1/snr_adaptive_beta_1/semantic_power_0/semantic_power_alpha_2.0/SSFLv6/snr_10/compress_4096/channel_type_rayleigh/seed_1_server.log
+- [2026-04-09 18:22:26 KST] restarting follow-up runner
+- [2026-04-09 18:22:31 KST] watchdog recovery executed

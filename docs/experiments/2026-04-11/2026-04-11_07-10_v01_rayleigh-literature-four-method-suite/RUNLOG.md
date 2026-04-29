@@ -1,0 +1,32 @@
+- [2026-04-11 07:11:50 KST] rayleigh literature four-method suite nclients=8 시작
+- [2026-04-11 07:11:50 KST] START smoke_method1_repetition
+- [2026-04-11 07:12:06 KST] END smoke_method1_repetition
+- [2026-04-11 07:12:06 KST] START smoke_method2_base_refinement
+- [2026-04-11 07:12:22 KST] END smoke_method2_base_refinement
+- [2026-04-11 07:12:22 KST] START smoke_method3_csi_source_mask
+- [2026-04-11 07:14:50 KST] rayleigh literature four-method suite nclients=8 시작
+- [2026-04-11 07:14:50 KST] START smoke_method1_repetition
+- [2026-04-11 07:15:05 KST] END smoke_method1_repetition
+- [2026-04-11 07:15:05 KST] START smoke_method2_base_refinement
+- [2026-04-11 07:15:21 KST] END smoke_method2_base_refinement
+- [2026-04-11 07:15:21 KST] START smoke_method3_csi_source_mask
+- [2026-04-11 07:15:37 KST] END smoke_method3_csi_source_mask
+- [2026-04-11 07:15:37 KST] START smoke_method4_server_impute
+- [2026-04-11 07:15:53 KST] END smoke_method4_server_impute
+- [2026-04-11 07:15:53 KST] START method1_repetition_seed_1
+- [2026-04-11 07:23:54 KST] END method1_repetition_seed_1
+- [2026-04-11 07:23:54 KST] START method2_base_refinement_seed_1
+- [2026-04-11 07:31:55 KST] END method2_base_refinement_seed_1
+- [2026-04-11 07:31:55 KST] START method3_csi_source_mask_seed_1
+- [2026-04-11 07:39:45 KST] END method3_csi_source_mask_seed_1
+- [2026-04-11 07:39:45 KST] START method4_server_impute_seed_1
+- [2026-04-11 07:47:41 KST] END method4_server_impute_seed_1
+- [2026-04-11 07:47:41 KST] START method1_repetition_seed_2
+- [2026-04-11 07:55:42 KST] END method1_repetition_seed_2
+- [2026-04-11 07:55:42 KST] START method2_base_refinement_seed_2
+- [2026-04-11 08:03:45 KST] END method2_base_refinement_seed_2
+- [2026-04-11 08:03:45 KST] START method3_csi_source_mask_seed_2
+- [2026-04-11 08:11:34 KST] END method3_csi_source_mask_seed_2
+- [2026-04-11 08:11:34 KST] START method4_server_impute_seed_2
+- [2026-04-11 08:19:27 KST] END method4_server_impute_seed_2
+- [2026-04-11 08:19:27 KST] rayleigh literature four-method suite nclients=8 완료

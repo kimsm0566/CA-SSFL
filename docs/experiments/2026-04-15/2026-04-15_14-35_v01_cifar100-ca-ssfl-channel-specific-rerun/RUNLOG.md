@@ -1,0 +1,23 @@
+- [2026-04-15 11:05:04 KST] cifar100 CA-SSFL channel-specific rerun 시작
+- [2026-04-15 11:05:24 KST] cifar100 CA-SSFL channel-specific rerun 시작
+- [2026-04-15 11:05:26 KST] START cifar100_awgn_ca_ssfl_seed_1
+- [2026-04-15 11:05:47 KST] FAIL cifar100_awgn_ca_ssfl_seed_1 (missing artifact after non-zero exit)
+- [2026-04-15 11:05:49 KST] START cifar100_awgn_ca_ssfl_seed_2
+- [2026-04-15 11:06:08 KST] cifar100 CA-SSFL channel-specific rerun 시작
+- [2026-04-15 11:06:10 KST] START cifar100_awgn_ca_ssfl_seed_1
+- [2026-04-15 11:13:49 KST] END cifar100_awgn_ca_ssfl_seed_1
+- [2026-04-15 11:13:51 KST] START cifar100_awgn_ca_ssfl_seed_2
+- [2026-04-15 11:21:36 KST] END cifar100_awgn_ca_ssfl_seed_2
+- [2026-04-15 11:21:38 KST] START cifar100_awgn_ca_ssfl_seed_3
+- [2026-04-15 11:29:21 KST] END cifar100_awgn_ca_ssfl_seed_3
+- [2026-04-15 11:29:23 KST] START cifar100_awgn_ca_ssfl_seed_4
+- [2026-04-15 11:37:03 KST] END cifar100_awgn_ca_ssfl_seed_4
+- [2026-04-15 11:37:05 KST] START cifar100_rayleigh_ca_ssfl_seed_1
+- [2026-04-15 11:44:51 KST] END cifar100_rayleigh_ca_ssfl_seed_1
+- [2026-04-15 11:44:53 KST] START cifar100_rayleigh_ca_ssfl_seed_2
+- [2026-04-15 11:52:44 KST] END cifar100_rayleigh_ca_ssfl_seed_2
+- [2026-04-15 11:52:46 KST] START cifar100_rayleigh_ca_ssfl_seed_3
+- [2026-04-15 12:00:36 KST] END cifar100_rayleigh_ca_ssfl_seed_3
+- [2026-04-15 12:00:38 KST] START cifar100_rayleigh_ca_ssfl_seed_4
+- [2026-04-15 12:08:29 KST] END cifar100_rayleigh_ca_ssfl_seed_4
+- [2026-04-15 12:08:29 KST] cifar100 CA-SSFL channel-specific rerun 완료

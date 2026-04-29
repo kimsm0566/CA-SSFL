@@ -1,0 +1,26 @@
+- [2026-04-11 22:11:55 KST] cifar100 awgn three-way benchmark 시작
+- [2026-04-11 22:11:55 KST] START cifar100_awgn_sfl_seed_1
+- [2026-04-11 22:16:21 KST] END cifar100_awgn_sfl_seed_1
+- [2026-04-11 22:16:21 KST] START cifar100_awgn_sfl_seed_2
+- [2026-04-11 22:20:46 KST] END cifar100_awgn_sfl_seed_2
+- [2026-04-11 22:20:46 KST] START cifar100_awgn_sfl_seed_3
+- [2026-04-11 22:25:10 KST] END cifar100_awgn_sfl_seed_3
+- [2026-04-11 22:25:10 KST] START cifar100_awgn_sfl_seed_4
+- [2026-04-11 22:29:35 KST] END cifar100_awgn_sfl_seed_4
+- [2026-04-11 22:29:35 KST] START cifar100_awgn_scusfl_seed_1
+- [2026-04-11 22:34:42 KST] END cifar100_awgn_scusfl_seed_1
+- [2026-04-11 22:34:42 KST] START cifar100_awgn_scusfl_seed_2
+- [2026-04-11 22:39:53 KST] END cifar100_awgn_scusfl_seed_2
+- [2026-04-11 22:39:53 KST] START cifar100_awgn_scusfl_seed_3
+- [2026-04-11 22:45:00 KST] END cifar100_awgn_scusfl_seed_3
+- [2026-04-11 22:45:00 KST] START cifar100_awgn_scusfl_seed_4
+- [2026-04-11 22:50:06 KST] END cifar100_awgn_scusfl_seed_4
+- [2026-04-11 22:50:06 KST] START cifar100_awgn_ca_ssfl_seed_1
+- [2026-04-11 22:57:52 KST] END cifar100_awgn_ca_ssfl_seed_1
+- [2026-04-11 22:57:52 KST] START cifar100_awgn_ca_ssfl_seed_2
+- [2026-04-11 23:05:33 KST] END cifar100_awgn_ca_ssfl_seed_2
+- [2026-04-11 23:05:33 KST] START cifar100_awgn_ca_ssfl_seed_3
+- [2026-04-11 23:13:08 KST] END cifar100_awgn_ca_ssfl_seed_3
+- [2026-04-11 23:13:08 KST] START cifar100_awgn_ca_ssfl_seed_4
+- [2026-04-11 23:20:40 KST] END cifar100_awgn_ca_ssfl_seed_4
+- [2026-04-11 23:20:40 KST] cifar100 awgn three-way benchmark 완료

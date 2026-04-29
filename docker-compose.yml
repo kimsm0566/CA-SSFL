@@ -1,0 +1,22 @@
+services:
+  sfl-semantic:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sfl-semantic:dev
+    working_dir: /workspace/src
+    volumes:
+      - ./:/workspace
+    environment:
+      PYTHONPATH: /workspace/src
+      MPLBACKEND: Agg
+      WANDB_MODE: offline
+      OMPI_ALLOW_RUN_AS_ROOT: "1"
+      OMPI_ALLOW_RUN_AS_ROOT_CONFIRM: "1"
+      NVIDIA_VISIBLE_DEVICES: all
+      NVIDIA_DRIVER_CAPABILITIES: compute,utility
+    gpus: all
+    stdin_open: true
+    tty: true
+    shm_size: "2gb"
+    command: bash

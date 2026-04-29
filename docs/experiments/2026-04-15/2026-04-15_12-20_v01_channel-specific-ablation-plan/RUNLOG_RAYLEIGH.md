@@ -1,0 +1,18 @@
+- [2026-04-15 13:23:35 KST] channel-specific ablation Rayleigh 시작
+- [2026-04-15 13:23:37 KST] START cifar10_rayleigh_SSFLv6_w_o_vib_seed_1
+- [2026-04-15 13:30:12 KST] END cifar10_rayleigh_SSFLv6_w_o_vib_seed_1
+- [2026-04-15 13:30:14 KST] START cifar10_rayleigh_SSFLv6_w_o_vib_seed_2
+- [2026-04-15 13:36:44 KST] END cifar10_rayleigh_SSFLv6_w_o_vib_seed_2
+- [2026-04-15 13:36:46 KST] START cifar10_rayleigh_SSFLv6_w_o_vib_seed_3
+- [2026-04-15 13:43:22 KST] END cifar10_rayleigh_SSFLv6_w_o_vib_seed_3
+- [2026-04-15 13:43:24 KST] START cifar10_rayleigh_SSFLv6_w_o_vib_seed_4
+- [2026-04-15 13:49:54 KST] END cifar10_rayleigh_SSFLv6_w_o_vib_seed_4
+- [2026-04-15 13:49:56 KST] START cifar10_rayleigh_SSFLv6_w_o_film_seed_1
+- [2026-04-15 13:57:30 KST] END cifar10_rayleigh_SSFLv6_w_o_film_seed_1
+- [2026-04-15 13:57:32 KST] START cifar10_rayleigh_SSFLv6_w_o_film_seed_2
+- [2026-04-15 14:05:01 KST] END cifar10_rayleigh_SSFLv6_w_o_film_seed_2
+- [2026-04-15 14:05:03 KST] START cifar10_rayleigh_SSFLv6_w_o_film_seed_3
+- [2026-04-15 14:12:37 KST] END cifar10_rayleigh_SSFLv6_w_o_film_seed_3
+- [2026-04-15 14:12:39 KST] START cifar10_rayleigh_SSFLv6_w_o_film_seed_4
+- [2026-04-15 14:20:11 KST] END cifar10_rayleigh_SSFLv6_w_o_film_seed_4
+- [2026-04-15 14:20:11 KST] channel-specific ablation Rayleigh 완료

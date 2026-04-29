@@ -1,0 +1,31 @@
+- [2026-04-14 11:07:16 KST] cifar100 rayleigh three-way benchmark (updated CA-SSFL) 시작
+- [2026-04-14 11:07:16 KST] START cifar100_rayleigh_sfl_seed_1
+- [2026-04-14 12:50:46 KST] cifar100 rayleigh three-way benchmark (updated CA-SSFL) 시작
+- [2026-04-14 12:50:46 KST] SKIP cifar100_rayleigh_sfl_seed_1 (existing artifact: /home/sunmin/SFL_Semantic/tmp/2026-04-14/2026-04-14-cifar100-rayleigh-threeway-benchmark-updated-ca-ssfl/cifar100/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SFL/snr_10/compress_4096/channel_type_rayleigh/seed_1.npz)
+- [2026-04-14 12:51:09 KST] cifar100 rayleigh three-way benchmark (updated CA-SSFL) 시작
+- [2026-04-14 12:51:09 KST] SKIP cifar100_rayleigh_sfl_seed_1 (existing artifact: /home/sunmin/SFL_Semantic/tmp/2026-04-14/2026-04-14-cifar100-rayleigh-threeway-benchmark-updated-ca-ssfl/cifar100/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SFL/snr_10/compress_4096/channel_type_rayleigh/seed_1.npz)
+- [2026-04-14 13:09:08 KST] cifar100 rayleigh three-way benchmark (updated CA-SSFL) 시작
+- [2026-04-14 13:09:08 KST] SKIP cifar100_rayleigh_sfl_seed_1 (existing artifact: /home/sunmin/SFL_Semantic/tmp/2026-04-14/2026-04-14-cifar100-rayleigh-threeway-benchmark-updated-ca-ssfl/cifar100/n_clients_8/n_client_data_3000/batch_size_100/data_partition_type_class/model_type_resnetv2/major_percent_0.8/n_epochs_1/beta_0.01/pruning_threshold_1.0/film_max_t_0.7/film_min_t_0.2/semantic_spreading_0/snr_adaptive_beta_0/semantic_power_0/semantic_power_alpha_2.0/latent_mixing_0/latent_mixing_strength_0.0/latent_mixing_groups_8/encoder_downsample_0/encoder_downsample_mode_stride2_proj/encoder_downsample_proj_dim_4096/semidense_0/semidense_group_size_16/semidense_group_topk_4/support_floor_0/support_floor_min_active_256/support_floor_snr_db_0.0/importance_repetition_0/importance_repetition_topk_32/base_refinement_0/base_refinement_variable_0/base_refinement_semantic_aware_0/base_support_k_128/refinement_support_k_128/refinement_semantic_weight_0.5/refinement_channel_weight_0.5/csi_source_mask_0/server_feature_impute_0/SFL/snr_10/compress_4096/channel_type_rayleigh/seed_1.npz)
+- [2026-04-14 13:09:10 KST] START cifar100_rayleigh_sfl_seed_2
+- [2026-04-14 13:13:40 KST] END cifar100_rayleigh_sfl_seed_2
+- [2026-04-14 13:13:42 KST] START cifar100_rayleigh_sfl_seed_3
+- [2026-04-14 13:18:14 KST] END cifar100_rayleigh_sfl_seed_3
+- [2026-04-14 13:18:16 KST] START cifar100_rayleigh_sfl_seed_4
+- [2026-04-14 13:22:49 KST] END cifar100_rayleigh_sfl_seed_4
+- [2026-04-14 13:22:51 KST] START cifar100_rayleigh_scusfl_seed_1
+- [2026-04-14 13:28:04 KST] END cifar100_rayleigh_scusfl_seed_1
+- [2026-04-14 13:28:06 KST] START cifar100_rayleigh_scusfl_seed_2
+- [2026-04-14 13:33:23 KST] END cifar100_rayleigh_scusfl_seed_2
+- [2026-04-14 13:33:25 KST] START cifar100_rayleigh_scusfl_seed_3
+- [2026-04-14 13:38:41 KST] END cifar100_rayleigh_scusfl_seed_3
+- [2026-04-14 13:38:43 KST] START cifar100_rayleigh_scusfl_seed_4
+- [2026-04-14 13:43:57 KST] END cifar100_rayleigh_scusfl_seed_4
+- [2026-04-14 13:43:59 KST] START cifar100_rayleigh_ca_ssfl_seed_1
+- [2026-04-14 13:51:51 KST] END cifar100_rayleigh_ca_ssfl_seed_1
+- [2026-04-14 13:51:53 KST] START cifar100_rayleigh_ca_ssfl_seed_2
+- [2026-04-14 13:59:43 KST] END cifar100_rayleigh_ca_ssfl_seed_2
+- [2026-04-14 13:59:45 KST] START cifar100_rayleigh_ca_ssfl_seed_3
+- [2026-04-14 14:07:33 KST] END cifar100_rayleigh_ca_ssfl_seed_3
+- [2026-04-14 14:07:35 KST] START cifar100_rayleigh_ca_ssfl_seed_4
+- [2026-04-14 14:15:24 KST] END cifar100_rayleigh_ca_ssfl_seed_4
+- [2026-04-14 14:15:24 KST] cifar100 rayleigh three-way benchmark (updated CA-SSFL) 완료

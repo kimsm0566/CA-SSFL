@@ -1,0 +1,23 @@
+{
+  "baseline": {
+    "count": 2,
+    "final_acc_mean": 41.91,
+    "comm_mean": 19608.502018928528,
+    "m6_mean": 39.370000000000005
+  },
+  "candidates": {
+    "0.1": {
+      "count": 2,
+      "final_acc_mean": 41.3,
+      "comm_mean": 19582.90842437744,
+      "m6_mean": 39.36
+    },
+    "0.5": {
+      "count": 2,
+      "final_acc_mean": 40.95,
+      "comm_mean": 17892.143052101135,
+      "m6_mean": 38.575
+    }
+  },
+  "promote_latent": false
+}

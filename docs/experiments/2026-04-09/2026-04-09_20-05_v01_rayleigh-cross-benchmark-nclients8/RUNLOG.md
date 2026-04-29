@@ -1,0 +1,34 @@
+- [2026-04-09 20:03:40 KST] rayleigh cross benchmark nclients=8 시작
+- [2026-04-09 20:03:40 KST] START rayleigh_sfl_seed_1
+- [2026-04-09 20:08:13 KST] END rayleigh_sfl_seed_1
+- [2026-04-09 20:08:13 KST] START rayleigh_sfl_seed_2
+- [2026-04-09 20:12:46 KST] END rayleigh_sfl_seed_2
+- [2026-04-09 20:12:46 KST] START rayleigh_sfl_seed_3
+- [2026-04-09 20:17:18 KST] END rayleigh_sfl_seed_3
+- [2026-04-09 20:17:18 KST] START rayleigh_sfl_seed_4
+- [2026-04-09 20:21:50 KST] END rayleigh_sfl_seed_4
+- [2026-04-09 20:21:50 KST] START rayleigh_scusfl_seed_1
+- [2026-04-09 20:27:04 KST] END rayleigh_scusfl_seed_1
+- [2026-04-09 20:27:04 KST] START rayleigh_scusfl_seed_2
+- [2026-04-09 20:32:20 KST] END rayleigh_scusfl_seed_2
+- [2026-04-09 20:32:20 KST] START rayleigh_scusfl_seed_3
+- [2026-04-09 20:37:35 KST] END rayleigh_scusfl_seed_3
+- [2026-04-09 20:37:35 KST] START rayleigh_scusfl_seed_4
+- [2026-04-09 20:42:51 KST] END rayleigh_scusfl_seed_4
+- [2026-04-09 20:42:51 KST] START rayleigh_ssflv6_baseline_seed_1
+- [2026-04-09 20:50:36 KST] END rayleigh_ssflv6_baseline_seed_1
+- [2026-04-09 20:50:36 KST] START rayleigh_ssflv6_baseline_seed_2
+- [2026-04-09 20:58:18 KST] END rayleigh_ssflv6_baseline_seed_2
+- [2026-04-09 20:58:18 KST] START rayleigh_ssflv6_baseline_seed_3
+- [2026-04-09 21:06:04 KST] END rayleigh_ssflv6_baseline_seed_3
+- [2026-04-09 21:06:04 KST] START rayleigh_ssflv6_baseline_seed_4
+- [2026-04-09 21:13:54 KST] END rayleigh_ssflv6_baseline_seed_4
+- [2026-04-09 21:13:54 KST] START rayleigh_ssflv6_candidate_seed_1
+- [2026-04-09 21:22:00 KST] END rayleigh_ssflv6_candidate_seed_1
+- [2026-04-09 21:22:00 KST] START rayleigh_ssflv6_candidate_seed_2
+- [2026-04-09 21:30:04 KST] END rayleigh_ssflv6_candidate_seed_2
+- [2026-04-09 21:30:04 KST] START rayleigh_ssflv6_candidate_seed_3
+- [2026-04-09 21:38:08 KST] END rayleigh_ssflv6_candidate_seed_3
+- [2026-04-09 21:38:08 KST] START rayleigh_ssflv6_candidate_seed_4
+- [2026-04-09 21:46:13 KST] END rayleigh_ssflv6_candidate_seed_4
+- [2026-04-09 21:46:13 KST] rayleigh cross benchmark nclients=8 완료

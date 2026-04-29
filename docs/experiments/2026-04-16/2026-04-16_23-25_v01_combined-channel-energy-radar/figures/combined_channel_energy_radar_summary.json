@@ -1,0 +1,118 @@
+{
+  "axes": {
+    "axis1": "awgn final accuracy",
+    "axis2": "rayleigh final accuracy",
+    "axis3": "inverse-normalized average communication overhead across awgn and rayleigh",
+    "axis4": "inverse-normalized average estimated client energy across awgn and rayleigh"
+  },
+  "energy_proxy_definition": {
+    "formula": "0.5 * (avg_comm_mb / min_avg_comm_mb) + 0.5 * (comp_mflops / min_comp_mflops)",
+    "comp_mflops": {
+      "SFL": 70.5,
+      "SC-USFL": 80.27,
+      "CA-SSFL (Ours)": 113.84
+    }
+  },
+  "summary": {
+    "cifar10": {
+      "title": "CIFAR-10",
+      "methods": {
+        "SFL": {
+          "awgn_accuracy": 1.0,
+          "rayleigh_accuracy": 1.0,
+          "inv_avg_comm_overhead": 0.0847589683418803,
+          "inv_avg_est_client_energy": 0.2043068268820635,
+          "raw": {
+            "awgn_final_acc_mean": 53.7,
+            "rayleigh_final_acc_mean": 51.07,
+            "awgn_comm_gb_mean": 168.830810546875,
+            "rayleigh_comm_gb_mean": 168.830810546875,
+            "avg_comm_gb_mean": 168.830810546875,
+            "comp_mflops": 70.5,
+            "energy_proxy": 6.39908076727905
+          }
+        },
+        "SC-USFL": {
+          "awgn_accuracy": 0.7404096834264431,
+          "rayleigh_accuracy": 0.8008615625611905,
+          "inv_avg_comm_overhead": 0.6151310824328752,
+          "inv_avg_est_client_energy": 0.9459168030604022,
+          "raw": {
+            "awgn_final_acc_mean": 39.76,
+            "rayleigh_final_acc_mean": 40.9,
+            "awgn_comm_gb_mean": 23.263212890625,
+            "rayleigh_comm_gb_mean": 23.263212890625,
+            "avg_comm_gb_mean": 23.263212890625,
+            "comp_mflops": 80.27,
+            "energy_proxy": 1.3821256608350359
+          }
+        },
+        "CA-SSFL (Ours)": {
+          "awgn_accuracy": 0.7767225325884544,
+          "rayleigh_accuracy": 0.791266888584296,
+          "inv_avg_comm_overhead": 1.0,
+          "inv_avg_est_client_energy": 1.0,
+          "raw": {
+            "awgn_final_acc_mean": 41.71,
+            "rayleigh_final_acc_mean": 40.41,
+            "awgn_comm_gb_mean": 14.026640625,
+            "rayleigh_comm_gb_mean": 14.593210027553141,
+            "avg_comm_gb_mean": 14.30992532627657,
+            "comp_mflops": 113.84,
+            "energy_proxy": 1.3073758865248228
+          }
+        }
+      }
+    },
+    "cifar100": {
+      "title": "CIFAR-100",
+      "methods": {
+        "SFL": {
+          "awgn_accuracy": 1.0,
+          "rayleigh_accuracy": 1.0,
+          "inv_avg_comm_overhead": 0.09903598483957167,
+          "inv_avg_est_client_energy": 0.22798939214473726,
+          "raw": {
+            "awgn_final_acc_mean": 27.352500000000003,
+            "rayleigh_final_acc_mean": 25.602500000000003,
+            "awgn_comm_gb_mean": 150.07183204218745,
+            "rayleigh_comm_gb_mean": 150.0718348454684,
+            "avg_comm_gb_mean": 150.07183344382793,
+            "comp_mflops": 70.5,
+            "energy_proxy": 5.54866994365684
+          }
+        },
+        "SC-USFL": {
+          "awgn_accuracy": 0.4529750479846449,
+          "rayleigh_accuracy": 0.48686651694170485,
+          "inv_avg_comm_overhead": 0.718651927679873,
+          "inv_avg_est_client_energy": 1.0,
+          "raw": {
+            "awgn_final_acc_mean": 12.39,
+            "rayleigh_final_acc_mean": 12.465,
+            "awgn_comm_gb_mean": 20.681099221110344,
+            "rayleigh_comm_gb_mean": 20.681099221110344,
+            "avg_comm_gb_mean": 20.681099221110344,
+            "comp_mflops": 80.27,
+            "energy_proxy": 1.2650378876660966
+          }
+        },
+        "CA-SSFL (Ours)": {
+          "awgn_accuracy": 0.8586966456448222,
+          "rayleigh_accuracy": 0.8408358558734498,
+          "inv_avg_comm_overhead": 1.0,
+          "inv_avg_est_client_energy": 0.9676160473088836,
+          "raw": {
+            "awgn_final_acc_mean": 23.4875,
+            "rayleigh_final_acc_mean": 21.5275,
+            "awgn_comm_gb_mean": 15.424005625303835,
+            "rayleigh_comm_gb_mean": 14.3010180182755,
+            "avg_comm_gb_mean": 14.862511821789667,
+            "comp_mflops": 113.84,
+            "energy_proxy": 1.3073758865248228
+          }
+        }
+      }
+    }
+  }
+}

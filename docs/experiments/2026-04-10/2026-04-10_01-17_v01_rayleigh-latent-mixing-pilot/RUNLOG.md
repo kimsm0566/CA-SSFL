@@ -1,0 +1,14 @@
+- [2026-04-10 01:19:42 KST] rayleigh latent mixing pilot nclients=8 시작
+- [2026-04-10 01:19:42 KST] START rayleigh_latent_mixing_s0.1_seed_1
+- [2026-04-10 01:27:40 KST] END rayleigh_latent_mixing_s0.1_seed_1
+- [2026-04-10 01:27:40 KST] START rayleigh_latent_mixing_s0.1_seed_2
+- [2026-04-10 01:35:39 KST] END rayleigh_latent_mixing_s0.1_seed_2
+- [2026-04-10 01:35:39 KST] START rayleigh_latent_mixing_s0.25_seed_1
+- [2026-04-10 01:43:39 KST] END rayleigh_latent_mixing_s0.25_seed_1
+- [2026-04-10 01:43:39 KST] START rayleigh_latent_mixing_s0.25_seed_2
+- [2026-04-10 01:51:27 KST] END rayleigh_latent_mixing_s0.25_seed_2
+- [2026-04-10 01:51:27 KST] START rayleigh_latent_mixing_s0.5_seed_1
+- [2026-04-10 01:59:12 KST] END rayleigh_latent_mixing_s0.5_seed_1
+- [2026-04-10 01:59:12 KST] START rayleigh_latent_mixing_s0.5_seed_2
+- [2026-04-10 02:07:01 KST] END rayleigh_latent_mixing_s0.5_seed_2
+- [2026-04-10 02:07:01 KST] rayleigh latent mixing pilot nclients=8 완료

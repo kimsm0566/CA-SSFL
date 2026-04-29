@@ -1,0 +1,12 @@
+- [2026-04-11 06:20:22 KST] rayleigh support-floor + semantic-power followup nclients=8 시작
+- [2026-04-11 06:20:22 KST] START support_floor_min96_snr-4.0_seed_1
+- [2026-04-11 06:28:01 KST] END support_floor_min96_snr-4.0_seed_1
+- [2026-04-11 06:28:01 KST] START support_floor_min96_snr-4.0_seed_2
+- [2026-04-11 06:35:41 KST] END support_floor_min96_snr-4.0_seed_2
+- [2026-04-11 06:35:41 KST] START support_floor_min96_snr-2.0_seed_1
+- [2026-04-11 06:43:22 KST] END support_floor_min96_snr-2.0_seed_1
+- [2026-04-11 06:43:22 KST] START support_floor_min96_snr-2.0_seed_2
+- [2026-04-11 06:51:02 KST] END support_floor_min96_snr-2.0_seed_2
+- [2026-04-11 06:51:02 KST] START support_floor_min128_snr-4.0_seed_1
+- [2026-04-11 06:58:49 KST] END support_floor_min128_snr-4.0_seed_1
+- [2026-04-11 06:58:49 KST] START support_floor_min128_snr-4.0_seed_2

@@ -1,0 +1,107 @@
+{
+  "sources": {
+    "accuracy_and_comm": "docs/experiments/2026-04-09/2026-04-09_16-40_v01_cross-benchmark-rayleigh-awgn/RESULT.md",
+    "ours_awgn_rayleigh": "docs/experiments/2026-04-15/2026-04-15_12-20_v01_channel-specific-ablation-plan/RESULT.md"
+  },
+  "definitions": {
+    "candidate1": "third axis = normalized Rayleigh -6 dB accuracy",
+    "candidate2": "third axis = normalized inverse |AWGN final acc - Rayleigh final acc|",
+    "candidate3": "third axis = normalized AWGN final accuracy / AWGN communication MB",
+    "candidate4": "third axis = normalized min(AWGN final acc, Rayleigh final acc, Rayleigh -6 dB acc)"
+  },
+  "summary": {
+    "SFL": {
+      "raw": {
+        "accuracy_awgn": 53.7,
+        "comm_mb_awgn": 172882.75,
+        "final_acc_rayleigh": 51.07,
+        "minus6_acc_rayleigh": 44.92,
+        "channel_gap_abs": 2.6300000000000026,
+        "communication_efficiency": 0.0003106151423435826,
+        "worst_case_accuracy": 44.92
+      },
+      "candidate1_low_snr_robustness": {
+        "accuracy": 1.0,
+        "inv_comm_latency": 0.0830810477042967,
+        "third_axis": 1.0
+      },
+      "candidate2_channel_robustness": {
+        "accuracy": 1.0,
+        "inv_comm_latency": 0.0830810477042967,
+        "third_axis": 0.4334600760456272
+      },
+      "candidate3_comm_efficiency": {
+        "accuracy": 1.0,
+        "inv_comm_latency": 0.0830810477042967,
+        "third_axis": 0.10696361212468793
+      },
+      "candidate4_worst_case_accuracy": {
+        "accuracy": 1.0,
+        "inv_comm_latency": 0.0830810477042967,
+        "third_axis": 1.0
+      }
+    },
+    "SC-USFL": {
+      "raw": {
+        "accuracy_awgn": 39.76,
+        "comm_mb_awgn": 23821.53,
+        "final_acc_rayleigh": 40.9,
+        "minus6_acc_rayleigh": 40.09,
+        "channel_gap_abs": 1.1400000000000006,
+        "communication_efficiency": 0.0016690783505509512,
+        "worst_case_accuracy": 39.76
+      },
+      "candidate1_low_snr_robustness": {
+        "accuracy": 0.7404096834264431,
+        "inv_comm_latency": 0.6029537145598961,
+        "third_axis": 0.8924755120213713
+      },
+      "candidate2_channel_robustness": {
+        "accuracy": 0.7404096834264431,
+        "inv_comm_latency": 0.6029537145598961,
+        "third_axis": 1.0
+      },
+      "candidate3_comm_efficiency": {
+        "accuracy": 0.7404096834264431,
+        "inv_comm_latency": 0.6029537145598961,
+        "third_axis": 0.5747647971925549
+      },
+      "candidate4_worst_case_accuracy": {
+        "accuracy": 0.7404096834264431,
+        "inv_comm_latency": 0.6029537145598961,
+        "third_axis": 0.8851291184327693
+      }
+    },
+    "CA-SSFL (Ours)": {
+      "raw": {
+        "accuracy_awgn": 41.71,
+        "comm_mb_awgn": 14363.28,
+        "final_acc_rayleigh": 40.41,
+        "minus6_acc_rayleigh": 37.88,
+        "channel_gap_abs": 1.3000000000000043,
+        "communication_efficiency": 0.0029039328064341847,
+        "worst_case_accuracy": 37.88
+      },
+      "candidate1_low_snr_robustness": {
+        "accuracy": 0.7767225325884544,
+        "inv_comm_latency": 1.0,
+        "third_axis": 0.8432769367764915
+      },
+      "candidate2_channel_robustness": {
+        "accuracy": 0.7767225325884544,
+        "inv_comm_latency": 1.0,
+        "third_axis": 0.8769230769230745
+      },
+      "candidate3_comm_efficiency": {
+        "accuracy": 0.7767225325884544,
+        "inv_comm_latency": 1.0,
+        "third_axis": 1.0
+      },
+      "candidate4_worst_case_accuracy": {
+        "accuracy": 0.7767225325884544,
+        "inv_comm_latency": 1.0,
+        "third_axis": 0.8432769367764915
+      }
+    }
+  }
+}

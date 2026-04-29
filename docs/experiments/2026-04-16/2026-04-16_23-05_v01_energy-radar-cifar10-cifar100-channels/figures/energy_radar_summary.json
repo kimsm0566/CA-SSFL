@@ -1,0 +1,181 @@
+{
+  "axes": {
+    "axis1": "channel-specific final accuracy",
+    "axis2": "inverse-normalized channel-specific communication overhead",
+    "axis3": "inverse-normalized estimated client energy proxy"
+  },
+  "energy_proxy_definition": {
+    "formula": "0.5 * (comm_mb / min_comm_mb) + 0.5 * (comp_mflops / min_comp_mflops)",
+    "comp_mflops": {
+      "SFL": 70.5,
+      "SC-USFL": 80.27,
+      "CA-SSFL (Ours)": 113.84
+    }
+  },
+  "summary": {
+    "cifar10_awgn": {
+      "title": "CIFAR-10 AWGN",
+      "methods": {
+        "SFL": {
+          "accuracy": 1.0,
+          "inv_comm_overhead": 0.0830810477042967,
+          "inv_est_client_energy": 0.2005725400255937,
+          "raw": {
+            "final_acc_mean": 53.7,
+            "comm_mb_mean": 172882.75,
+            "comm_gb_mean": 168.830810546875,
+            "comp_mflops": 70.5,
+            "energy_proxy": 6.5182197241855615
+          }
+        },
+        "SC-USFL": {
+          "accuracy": 0.7404096834264431,
+          "inv_comm_overhead": 0.6029537145598961,
+          "inv_est_client_energy": 0.9348135749274494,
+          "raw": {
+            "final_acc_mean": 39.76,
+            "comm_mb_mean": 23821.53,
+            "comm_gb_mean": 23.263212890625,
+            "comp_mflops": 80.27,
+            "energy_proxy": 1.3985418286488702
+          }
+        },
+        "CA-SSFL (Ours)": {
+          "accuracy": 0.7767225325884544,
+          "inv_comm_overhead": 1.0,
+          "inv_est_client_energy": 1.0,
+          "raw": {
+            "final_acc_mean": 41.71,
+            "comm_mb_mean": 14363.28,
+            "comm_gb_mean": 14.026640625,
+            "comp_mflops": 113.84,
+            "energy_proxy": 1.3073758865248228
+          }
+        }
+      }
+    },
+    "cifar10_rayleigh": {
+      "title": "CIFAR-10 Rayleigh",
+      "methods": {
+        "SFL": {
+          "accuracy": 1.0,
+          "inv_comm_overhead": 0.08643688897946392,
+          "inv_est_client_energy": 0.20802957908420283,
+          "raw": {
+            "final_acc_mean": 51.07,
+            "comm_mb_mean": 172882.75,
+            "comm_gb_mean": 168.830810546875,
+            "comp_mflops": 70.5,
+            "energy_proxy": 6.284567282596118
+          }
+        },
+        "SC-USFL": {
+          "accuracy": 0.8008615625611905,
+          "inv_comm_overhead": 0.6273084503058542,
+          "inv_est_client_energy": 0.9568404235801756,
+          "raw": {
+            "final_acc_mean": 40.9,
+            "comm_mb_mean": 23821.53,
+            "comm_gb_mean": 23.263212890625,
+            "comp_mflops": 80.27,
+            "energy_proxy": 1.3663468372636904
+          }
+        },
+        "CA-SSFL (Ours)": {
+          "accuracy": 0.791266888584296,
+          "inv_comm_overhead": 1.0,
+          "inv_est_client_energy": 1.0,
+          "raw": {
+            "final_acc_mean": 40.41,
+            "comm_mb_mean": 14943.447068214417,
+            "comm_gb_mean": 14.593210027553141,
+            "comp_mflops": 113.84,
+            "energy_proxy": 1.3073758865248228
+          }
+        }
+      }
+    },
+    "cifar100_awgn": {
+      "title": "CIFAR-100 AWGN",
+      "methods": {
+        "SFL": {
+          "accuracy": 1.0,
+          "inv_comm_overhead": 0.10277748605726299,
+          "inv_est_client_energy": 0.23107884857278943,
+          "raw": {
+            "final_acc_mean": 27.352500000000003,
+            "comm_mb_mean": 153673.55601119995,
+            "comm_gb_mean": 150.07183204218745,
+            "comp_mflops": 70.5,
+            "energy_proxy": 5.364878673150485
+          }
+        },
+        "SC-USFL": {
+          "accuracy": 0.4529750479846449,
+          "inv_comm_overhead": 0.7458020224360076,
+          "inv_est_client_energy": 1.0,
+          "raw": {
+            "final_acc_mean": 12.39,
+            "comm_mb_mean": 21177.445602416992,
+            "comm_gb_mean": 20.681099221110344,
+            "comp_mflops": 80.27,
+            "energy_proxy": 1.2397099865243284
+          }
+        },
+        "CA-SSFL (Ours)": {
+          "accuracy": 0.8586966456448222,
+          "inv_comm_overhead": 1.0,
+          "inv_est_client_energy": 0.9482429646301958,
+          "raw": {
+            "final_acc_mean": 23.4875,
+            "comm_mb_mean": 15794.181760311127,
+            "comm_gb_mean": 15.424005625303835,
+            "comp_mflops": 113.84,
+            "energy_proxy": 1.3073758865248228
+          }
+        }
+      }
+    },
+    "cifar100_rayleigh": {
+      "title": "CIFAR-100 Rayleigh",
+      "methods": {
+        "SFL": {
+          "accuracy": 1.0,
+          "inv_comm_overhead": 0.09529448369177007,
+          "inv_est_client_energy": 0.22487882874822832,
+          "raw": {
+            "final_acc_mean": 25.602500000000003,
+            "comm_mb_mean": 153673.55888175964,
+            "comm_gb_mean": 150.0718348454684,
+            "comp_mflops": 70.5,
+            "energy_proxy": 5.74689342582777
+          }
+        },
+        "SC-USFL": {
+          "accuracy": 0.48686651694170485,
+          "inv_comm_overhead": 0.6915018329237383,
+          "inv_est_client_energy": 1.0,
+          "raw": {
+            "final_acc_mean": 12.465,
+            "comm_mb_mean": 21177.445602416992,
+            "comm_gb_mean": 20.681099221110344,
+            "comp_mflops": 80.27,
+            "energy_proxy": 1.2923546625410423
+          }
+        },
+        "CA-SSFL (Ours)": {
+          "accuracy": 0.8408358558734498,
+          "inv_comm_overhead": 1.0,
+          "inv_est_client_energy": 0.9885104015313385,
+          "raw": {
+            "final_acc_mean": 21.5275,
+            "comm_mb_mean": 14644.242450714111,
+            "comm_gb_mean": 14.3010180182755,
+            "comp_mflops": 113.84,
+            "energy_proxy": 1.3073758865248228
+          }
+        }
+      }
+    }
+  }
+}

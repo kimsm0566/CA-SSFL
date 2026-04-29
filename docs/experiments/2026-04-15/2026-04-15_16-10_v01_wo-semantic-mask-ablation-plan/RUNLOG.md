@@ -1,0 +1,18 @@
+- [2026-04-15 16:21:48 KST] w/o semantic mask ablation 시작
+- [2026-04-15 16:21:50 KST] START cifar10_awgn_wo_semantic_mask_seed_1
+- [2026-04-15 16:29:32 KST] END cifar10_awgn_wo_semantic_mask_seed_1
+- [2026-04-15 16:29:34 KST] START cifar10_awgn_wo_semantic_mask_seed_2
+- [2026-04-15 16:37:19 KST] END cifar10_awgn_wo_semantic_mask_seed_2
+- [2026-04-15 16:37:21 KST] START cifar10_awgn_wo_semantic_mask_seed_3
+- [2026-04-15 16:45:09 KST] END cifar10_awgn_wo_semantic_mask_seed_3
+- [2026-04-15 16:45:11 KST] START cifar10_awgn_wo_semantic_mask_seed_4
+- [2026-04-15 16:53:01 KST] END cifar10_awgn_wo_semantic_mask_seed_4
+- [2026-04-15 16:53:03 KST] START cifar10_rayleigh_wo_semantic_mask_seed_1
+- [2026-04-15 17:00:54 KST] END cifar10_rayleigh_wo_semantic_mask_seed_1
+- [2026-04-15 17:00:56 KST] START cifar10_rayleigh_wo_semantic_mask_seed_2
+- [2026-04-15 17:08:44 KST] END cifar10_rayleigh_wo_semantic_mask_seed_2
+- [2026-04-15 17:08:46 KST] START cifar10_rayleigh_wo_semantic_mask_seed_3
+- [2026-04-15 17:16:39 KST] END cifar10_rayleigh_wo_semantic_mask_seed_3
+- [2026-04-15 17:16:41 KST] START cifar10_rayleigh_wo_semantic_mask_seed_4
+- [2026-04-15 17:24:32 KST] END cifar10_rayleigh_wo_semantic_mask_seed_4
+- [2026-04-15 17:24:32 KST] w/o semantic mask ablation 완료

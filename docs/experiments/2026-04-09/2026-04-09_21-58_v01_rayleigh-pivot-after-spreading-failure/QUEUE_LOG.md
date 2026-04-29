@@ -1,0 +1,2 @@
+- [2026-04-09 22:57:07 KST] waiting for awgn ca-ssfl orig backfill to finish
+- [2026-04-09 22:57:07 KST] awgn ca-ssfl orig finished, starting rayleigh semantic power sweep

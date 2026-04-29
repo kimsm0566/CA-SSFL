@@ -1,0 +1,18 @@
+- [2026-04-15 12:27:12 KST] channel-specific ablation AWGN 시작
+- [2026-04-15 12:27:14 KST] START cifar10_awgn_SSFLv6_w_o_vib_seed_1
+- [2026-04-15 12:33:49 KST] END cifar10_awgn_SSFLv6_w_o_vib_seed_1
+- [2026-04-15 12:33:51 KST] START cifar10_awgn_SSFLv6_w_o_vib_seed_2
+- [2026-04-15 12:40:27 KST] END cifar10_awgn_SSFLv6_w_o_vib_seed_2
+- [2026-04-15 12:40:29 KST] START cifar10_awgn_SSFLv6_w_o_vib_seed_3
+- [2026-04-15 12:47:06 KST] END cifar10_awgn_SSFLv6_w_o_vib_seed_3
+- [2026-04-15 12:47:08 KST] START cifar10_awgn_SSFLv6_w_o_vib_seed_4
+- [2026-04-15 12:53:45 KST] END cifar10_awgn_SSFLv6_w_o_vib_seed_4
+- [2026-04-15 12:53:47 KST] START cifar10_awgn_SSFLv6_w_o_film_seed_1
+- [2026-04-15 13:01:13 KST] END cifar10_awgn_SSFLv6_w_o_film_seed_1
+- [2026-04-15 13:01:15 KST] START cifar10_awgn_SSFLv6_w_o_film_seed_2
+- [2026-04-15 13:08:43 KST] END cifar10_awgn_SSFLv6_w_o_film_seed_2
+- [2026-04-15 13:08:45 KST] START cifar10_awgn_SSFLv6_w_o_film_seed_3
+- [2026-04-15 13:16:09 KST] END cifar10_awgn_SSFLv6_w_o_film_seed_3
+- [2026-04-15 13:16:11 KST] START cifar10_awgn_SSFLv6_w_o_film_seed_4
+- [2026-04-15 13:23:35 KST] END cifar10_awgn_SSFLv6_w_o_film_seed_4
+- [2026-04-15 13:23:35 KST] channel-specific ablation AWGN 완료
