@@ -19,6 +19,16 @@ output.log
 tmp/
 .tmp*/
 
+# Manuscript and generated document artifacts
+*.pdf
+*.fdf
+*.tex
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+
 # Protected/generated research artifacts
 results/
 results*/
