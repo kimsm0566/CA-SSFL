@@ -101,12 +101,10 @@ class RayleighChannel(nn.Module):
         x_r = x_complex[:, :, 0]
         x_i = x_complex[:, :, 1]
         
-        # ==============================================================
-        # ★ 수정 1: Slow Rayleigh Fading (블록 페이딩)
-        # 이미지(Batch)당 1개의 채널 상태(h)를 가짐
-        # ==============================================================
-        h_r = torch.randn(batch_size, 1, device=x.device) * math.sqrt(0.5)
-        h_i = torch.randn(batch_size, 1, device=x.device) * math.sqrt(0.5)
+        # Symbol-wise Rayleigh fading: each complex symbol experiences
+        # an independent channel coefficient.
+        h_r = torch.randn(batch_size, K, device=x.device) * math.sqrt(0.5)
+        h_i = torch.randn(batch_size, K, device=x.device) * math.sqrt(0.5)
         
         # 3. 복소수 채널 통과 (y = h * x) (Broadcasting 됨)
         y_r = h_r * x_r - h_i * x_i
